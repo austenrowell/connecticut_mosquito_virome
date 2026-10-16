@@ -1,0 +1,10 @@
+Permutation test for adonis under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 499
+
+vegan::adonis2(formula = stats::as.formula(formula_text), data = df_model, permutations = permutations_n, by = "margin")
+                 Df SumOfSqs      R2      F Pr(>F)
+collection_month  4  0.35176 0.16334 0.5369  0.836
+Residual         11  1.80179 0.83666              
+Total            15  2.15355 1.00000              

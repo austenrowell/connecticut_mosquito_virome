@@ -1,0 +1,10 @@
+
+	Pairwise comparisons using t tests with non-pooled SD 
+
+data:  dispersion_df$distance and dispersion_df$host 
+
+                  Aedes albopictus Culex pipiens
+Culex pipiens     0.0031           -            
+Culiseta melanura 0.2548           0.2548       
+
+P value adjustment method: BH 

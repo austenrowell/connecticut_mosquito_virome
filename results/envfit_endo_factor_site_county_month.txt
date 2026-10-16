@@ -1,0 +1,51 @@
+
+***FACTORS:
+
+Centroids:
+                           Axis.1  Axis.2
+countyFairfield            0.1922 -0.0368
+countyHartford            -0.3030  0.1244
+countyMiddlesex           -0.1508 -0.2258
+countyNew Haven            0.0759  0.2378
+countyNew London          -0.2879 -0.0241
+countyWindham             -0.4133 -0.3619
+siteBB17                  -0.2168  0.4737
+siteBP105                  0.3022 -0.0305
+siteBP39                   0.4666 -0.0569
+siteCB93                  -0.4083 -0.3557
+siteCH23                  -0.3058 -0.2162
+siteFM18                  -0.3902 -0.3367
+siteGR46                  -0.2118  0.2850
+siteHA78                  -0.2442  0.5624
+siteK27                   -0.3988 -0.3456
+siteMI82                  -0.3927 -0.3135
+siteMO52                  -0.3328 -0.2651
+siteNEB84                 -0.2746  0.1475
+siteNH54                   0.0518  0.2314
+siteNS5                   -0.3926 -0.3386
+siteSA105                 -0.1239  0.0958
+siteST64                   0.2875  0.0122
+siteV9                    -0.2319  0.4740
+siteWB90                  -0.2519  0.4595
+siteWF20                  -0.4033 -0.3276
+siteWH104                  0.2430  0.1266
+siteWK92                   0.4940 -0.0279
+siteWS111                 -0.4183 -0.3681
+collection_monthMay       -0.3988 -0.3456
+collection_monthJune      -0.2976 -0.3242
+collection_monthJuly       0.0093  0.1280
+collection_monthAugust     0.0582  0.1437
+collection_monthSeptember  0.1131 -0.0112
+collection_monthOctober    0.4940 -0.0279
+
+Goodness of fit:
+                     r2 Pr(>r)    
+county           0.3587  0.001 ***
+site             0.7869  0.001 ***
+collection_month 0.2965  0.010 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Permutation: free
+Number of permutations: 999
+
+

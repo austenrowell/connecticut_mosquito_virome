@@ -1,0 +1,4 @@
+dataset	perm_p_value	anova_p_value	eta2	omega2	top_host	top_host_mean_distance	n_groups	significant_pairs_involving_top
+total	0.038	0.027571837090522737	0.195580166401208	0.1433335004089154	Culex pipiens	0.5533240913737059	3	Culex pipiens vs Aedes albopictus
+endo	0.032	0.031104697507816765	0.18968081721842614	0.1372015619718642	Culex pipiens	0.5480758583956497	3	Culex pipiens vs Aedes albopictus
+nonendo	0.216	0.23237684409095263	0.08464945298540483	0.028386286414896388	Culex pipiens	0.5568315314096814	3	

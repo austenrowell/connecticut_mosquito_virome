@@ -1,0 +1,11 @@
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 999
+
+vegan::adonis2(formula = dist ~ host, data = df)
+         Df SumOfSqs      R2      F Pr(>F)    
+Model     2   2.1570 0.19415 3.9753  0.001 ***
+Residual 33   8.9527 0.80585                  
+Total    35  11.1096 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

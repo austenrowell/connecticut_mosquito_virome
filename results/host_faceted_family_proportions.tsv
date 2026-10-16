@@ -1,0 +1,97 @@
+host	family_display	status	reads	total_reads_family_host	proportion
+Aedes albopictus	Mesoniviridae	Free virus	77427	79002	0.9800637958532695
+Aedes albopictus	Mesoniviridae	Endogenous	1575	79002	0.019936204146730464
+Aedes albopictus	Tombusviridae	Free virus	5553	47386	0.1171865107837758
+Aedes albopictus	Tombusviridae	Endogenous	41833	47386	0.8828134892162242
+Aedes albopictus	Baculoviridae	Free virus	995298	1947786	0.5109894002729253
+Aedes albopictus	Baculoviridae	Endogenous	952488	1947786	0.4890105997270747
+Aedes albopictus	Iflaviridae	Free virus	67	88	0.7613636363636364
+Aedes albopictus	Iflaviridae	Endogenous	21	88	0.23863636363636365
+Aedes albopictus	Parvoviridae	Free virus	1146	1146	1
+Aedes albopictus	Parvoviridae	Endogenous	0	1146	0
+Aedes albopictus	Circoviridae	Free virus	1193	1225	0.9738775510204082
+Aedes albopictus	Circoviridae	Endogenous	32	1225	0.026122448979591838
+Aedes albopictus	Steitzviridae	Free virus	591759	957802	0.6178301987258327
+Aedes albopictus	Steitzviridae	Endogenous	366043	957802	0.38216980127416733
+Aedes albopictus	Rhabdoviridae	Free virus	461104	461289	0.9995989498990872
+Aedes albopictus	Rhabdoviridae	Endogenous	185	461289	4.0105010091287676e-4
+Aedes albopictus	Flaviviridae	Free virus	117252	284014	0.41283880372094334
+Aedes albopictus	Flaviviridae	Endogenous	166762	284014	0.5871611962790567
+Aedes albopictus	Phasmaviridae	Free virus	128247	256494	0.5
+Aedes albopictus	Phasmaviridae	Endogenous	128247	256494	0.5
+Aedes albopictus	Poxviridae	Free virus	581	31079	0.018694295183242705
+Aedes albopictus	Poxviridae	Endogenous	30498	31079	0.9813057048167573
+Aedes albopictus	Rountreeviridae	Free virus	22546	22548	0.9999113003370588
+Aedes albopictus	Rountreeviridae	Endogenous	2	22548	8.869966294128082e-5
+Aedes albopictus	Peribunyaviridae	Free virus	2375	2375	1
+Aedes albopictus	Peribunyaviridae	Endogenous	0	2375	0
+Aedes albopictus	Retroviridae	Free virus	8025	9203	0.8719982614364881
+Aedes albopictus	Retroviridae	Endogenous	1178	9203	0.1280017385635119
+Aedes albopictus	Mimiviridae	Free virus	281	498	0.5642570281124498
+Aedes albopictus	Mimiviridae	Endogenous	217	498	0.4357429718875502
+Aedes albopictus	Other	Free virus	35404	37335431	9.482681477548766e-4
+Aedes albopictus	Other	Endogenous	37300027	37335431	0.9990517318522452
+Culex pipiens	Mesoniviridae	Free virus	20954108	41458948	0.505418227206344
+Culex pipiens	Mesoniviridae	Endogenous	20504840	41458948	0.494581772793656
+Culex pipiens	Tombusviridae	Free virus	64	14571949	4.391999999451e-6
+Culex pipiens	Tombusviridae	Endogenous	14571885	14571949	0.9999956080000005
+Culex pipiens	Baculoviridae	Free virus	1273015	2494920	0.5102428133968223
+Culex pipiens	Baculoviridae	Endogenous	1221905	2494920	0.48975718660317763
+Culex pipiens	Iflaviridae	Free virus	65981	4818388	0.013693583829280664
+Culex pipiens	Iflaviridae	Endogenous	4752407	4818388	0.9863064161707193
+Culex pipiens	Parvoviridae	Free virus	2732836	4503958	0.6067632069393187
+Culex pipiens	Parvoviridae	Endogenous	1771122	4503958	0.39323679306068127
+Culex pipiens	Circoviridae	Free virus	1659604	3180361	0.52182881125759
+Culex pipiens	Circoviridae	Endogenous	1520757	3180361	0.47817118874241005
+Culex pipiens	Steitzviridae	Free virus	32375	51278	0.6313623776278326
+Culex pipiens	Steitzviridae	Endogenous	18903	51278	0.3686376223721674
+Culex pipiens	Rhabdoviridae	Free virus	22203	22203	1
+Culex pipiens	Rhabdoviridae	Endogenous	0	22203	0
+Culex pipiens	Flaviviridae	Free virus	134381	162654	0.8261770383759391
+Culex pipiens	Flaviviridae	Endogenous	28273	162654	0.17382296162406088
+Culex pipiens	Phasmaviridae	Free virus	10925	21336	0.5120453693288339
+Culex pipiens	Phasmaviridae	Endogenous	10411	21336	0.4879546306711661
+Culex pipiens	Poxviridae	Free virus	1998	3167	0.630880959898958
+Culex pipiens	Poxviridae	Endogenous	1169	3167	0.369119040101042
+Culex pipiens	Rountreeviridae	Free virus	88	88	1
+Culex pipiens	Rountreeviridae	Endogenous	0	88	0
+Culex pipiens	Peribunyaviridae	Free virus	104	104	1
+Culex pipiens	Peribunyaviridae	Endogenous	0	104	0
+Culex pipiens	Retroviridae	Free virus	460	460	1
+Culex pipiens	Retroviridae	Endogenous	0	460	0
+Culex pipiens	Mimiviridae	Free virus	7176	8313	0.8632262721039335
+Culex pipiens	Mimiviridae	Endogenous	1137	8313	0.1367737278960664
+Culex pipiens	Other	Free virus	906831	4782800	0.18960253408045497
+Culex pipiens	Other	Endogenous	3875969	4782800	0.8103974659195451
+Culiseta melanura	Mesoniviridae	Free virus	13008917	25423115	0.511696422723966
+Culiseta melanura	Mesoniviridae	Endogenous	12414198	25423115	0.488303577276034
+Culiseta melanura	Tombusviridae	Free virus	70	229	0.3056768558951965
+Culiseta melanura	Tombusviridae	Endogenous	159	229	0.6943231441048034
+Culiseta melanura	Baculoviridae	Free virus	1705054	3409782	0.500047803642579
+Culiseta melanura	Baculoviridae	Endogenous	1704728	3409782	0.4999521963574211
+Culiseta melanura	Iflaviridae	Free virus	1	1	1
+Culiseta melanura	Iflaviridae	Endogenous	0	1	0
+Culiseta melanura	Parvoviridae	Free virus	1321	1321	1
+Culiseta melanura	Parvoviridae	Endogenous	0	1321	0
+Culiseta melanura	Circoviridae	Free virus	4548	4548	1
+Culiseta melanura	Circoviridae	Endogenous	0	4548	0
+Culiseta melanura	Steitzviridae	Free virus	78169	152584	0.5123014208567085
+Culiseta melanura	Steitzviridae	Endogenous	74415	152584	0.48769857914329157
+Culiseta melanura	Rhabdoviridae	Free virus	9571	9571	1
+Culiseta melanura	Rhabdoviridae	Endogenous	0	9571	0
+Culiseta melanura	Flaviviridae	Free virus	1058	1930	0.5481865284974093
+Culiseta melanura	Flaviviridae	Endogenous	872	1930	0.45181347150259066
+Culiseta melanura	Phasmaviridae	Free virus	1	1	1
+Culiseta melanura	Phasmaviridae	Endogenous	0	1	0
+Culiseta melanura	Poxviridae	Free virus	129	1521	0.08481262327416174
+Culiseta melanura	Poxviridae	Endogenous	1392	1521	0.9151873767258383
+Culiseta melanura	Rountreeviridae	Free virus	6317	7170	0.8810320781032078
+Culiseta melanura	Rountreeviridae	Endogenous	853	7170	0.11896792189679219
+Culiseta melanura	Peribunyaviridae	Free virus	10775	10775	1
+Culiseta melanura	Peribunyaviridae	Endogenous	0	10775	0
+Culiseta melanura	Retroviridae	Free virus	600	713	0.8415147265077139
+Culiseta melanura	Retroviridae	Endogenous	113	713	0.1584852734922861
+Culiseta melanura	Mimiviridae	Free virus	113	278	0.4064748201438849
+Culiseta melanura	Mimiviridae	Endogenous	165	278	0.5935251798561151
+Culiseta melanura	Other	Free virus	12522	13620	0.9193832599118943
+Culiseta melanura	Other	Endogenous	1098	13620	0.08061674008810572

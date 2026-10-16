@@ -1,0 +1,7 @@
+Dataset: total
+PERMDISP permutations summary written to: diversity_results//05_permdisp/results/permdisp_total.txt
+ANOVA table written to: diversity_results//05_permdisp/results/permdisp_total_anova.txt
+Effect sizes: eta2 = 0.1956, omega2 = 0.1433
+Top host by mean distance: Culex pipiens (mean distance = 0.5533)
+Significant pairwise comparisons involving top host (BH-corrected t-test or Tukey):
+  - Culex pipiens vs Aedes albopictus

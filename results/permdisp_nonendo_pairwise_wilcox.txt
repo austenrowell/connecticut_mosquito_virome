@@ -1,0 +1,10 @@
+
+	Pairwise comparisons using Wilcoxon rank sum exact test 
+
+data:  dispersion_df$distance and dispersion_df$host 
+
+                  Aedes albopictus Culex pipiens
+Culex pipiens     0.11             -            
+Culiseta melanura 0.62             0.29         
+
+P value adjustment method: BH 

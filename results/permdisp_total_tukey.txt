@@ -1,0 +1,11 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = distances ~ group, data = df)
+
+$group
+                                         diff         lwr       upr     p adj
+Culex pipiens-Aedes albopictus      0.2223766  0.02809941 0.4166537 0.0220087
+Culiseta melanura-Aedes albopictus  0.1123378 -0.08193936 0.3066149 0.3430395
+Culiseta melanura-Culex pipiens    -0.1100388 -0.32556991 0.1054924 0.4314225
+

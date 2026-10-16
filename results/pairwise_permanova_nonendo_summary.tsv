@@ -1,0 +1,4 @@
+dataset	comparison	host_1	host_2	n_host_1	n_host_2	r_squared	f_statistic	p_value	p_adj_BH	significance
+nonendo	Aedes albopictus vs Culex pipiens	Aedes albopictus	Culex pipiens	16	10	0.19852583235301	5.944820393226723	0.001	0.003	**
+nonendo	Aedes albopictus vs Culiseta melanura	Aedes albopictus	Culiseta melanura	16	10	0.15381682028771534	4.362653117449546	0.002	0.003	**
+nonendo	Culex pipiens vs Culiseta melanura	Culex pipiens	Culiseta melanura	10	10	0.06801775522672436	1.3136726594817052	0.24	0.24	ns
