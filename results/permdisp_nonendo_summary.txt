@@ -1,0 +1,7 @@
+Dataset: nonendo
+PERMDISP permutations summary written to: diversity_results//05_permdisp/results/permdisp_nonendo.txt
+ANOVA table written to: diversity_results//05_permdisp/results/permdisp_nonendo_anova.txt
+Effect sizes: eta2 = 0.0846, omega2 = 0.0284
+Top host by mean distance: Culex pipiens (mean distance = 0.5568)
+Significant pairwise comparisons involving top host (BH-corrected t-test or Tukey):
+  - none (no significant pairwise comparisons involving top host at p < 0.05)

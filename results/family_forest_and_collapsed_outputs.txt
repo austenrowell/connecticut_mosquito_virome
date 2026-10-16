@@ -1,0 +1,3 @@
+forest_collapsed: diversity_results//08_family_endogenization/figures/family_forest_collapsed_top15.pdf
+collapsed_bar: diversity_results//08_family_endogenization/figures/family_collapsed_proportion_top15.pdf
+observed_expected: diversity_results//08_family_endogenization/figures/family_observed_expected_top15.pdf
