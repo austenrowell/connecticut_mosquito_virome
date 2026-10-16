@@ -1,0 +1,25 @@
+dataset	analysis	term	r_squared	f_statistic	p_value
+total	relative abundance: host only	host	NA	NA	NA
+total	relative abundance: host + depth	host	0.5001966965520338	26.538054693223266	0.001
+total	relative abundance: host + depth	log10_viral_read_depth	0.13371479232792735	14.188540214488942	0.001
+total	relative abundance: host + depth + space/time	host	0.3057125972499856	16.381226482267223	0.001
+total	relative abundance: host + depth + space/time	log10_viral_read_depth	0.12618419761301208	13.522844254217343	0.001
+total	relative abundance: host + depth + space/time	latitude	0.004079739027565265	0.437215408198848	0.751
+total	relative abundance: host + depth + space/time	longitude	0.013289079856784517	1.4241573872529238	0.23
+total	relative abundance: host + depth + space/time	collection_month_num	0.006943436916024998	0.7441107347874976	0.534
+endo	relative abundance: host only	host	NA	NA	NA
+endo	relative abundance: host + depth	host	0.4917493776413183	28.567755424232047	0.001
+endo	relative abundance: host + depth	log10_viral_read_depth	0.1320598746366293	15.343808742858204	0.001
+endo	relative abundance: host + depth + space/time	host	0.3218358651583849	18.864592966451834	0.001
+endo	relative abundance: host + depth + space/time	log10_viral_read_depth	0.12019984062026123	14.091164555682429	0.001
+endo	relative abundance: host + depth + space/time	latitude	0.0033837990554637697	0.3966866267696647	0.803
+endo	relative abundance: host + depth + space/time	longitude	0.01321519947106868	1.5492329226234163	0.193
+endo	relative abundance: host + depth + space/time	collection_month_num	0.00493034113205281	0.5779895201932153	0.63
+nonendo	relative abundance: host only	host	NA	NA	NA
+nonendo	relative abundance: host + depth	host	0.16023497441831666	4.898413752670673	0.001
+nonendo	relative abundance: host + depth	log10_viral_read_depth	0.20356833695204987	12.446245833084888	0.001
+nonendo	relative abundance: host + depth + space/time	host	0.106388258829265	3.216191871890377	0.003
+nonendo	relative abundance: host + depth + space/time	log10_viral_read_depth	0.2000893848531382	12.09768559609492	0.001
+nonendo	relative abundance: host + depth + space/time	latitude	0.011373500951822511	0.6876578622250537	0.604
+nonendo	relative abundance: host + depth + space/time	longitude	0.01695745827145692	1.0252717745499507	0.4
+nonendo	relative abundance: host + depth + space/time	collection_month_num	0.01224901768838449	0.7405928353662825	0.553

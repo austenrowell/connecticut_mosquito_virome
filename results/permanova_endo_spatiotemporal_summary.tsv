@@ -1,0 +1,17 @@
+dataset	model	term	df	SumOfSqs	R2	statistic	p.value
+endo	host + latitude + longitude + month_numeric	host	2	3.456893501598569	0.26500512446387614	7.618562464381025	0.001
+endo	host + latitude + longitude + month_numeric	latitude	1	0.13854480971763738	0.01062083183241497	0.6106709891187009	0.748
+endo	host + latitude + longitude + month_numeric	longitude	1	0.28479746151810836	0.0218325461000466	1.2553162249687502	0.266
+endo	host + latitude + longitude + month_numeric	collection_month_num	1	0.32493117764983737	0.024909192931593042	1.4322156423999906	0.172
+endo	host + latitude + longitude + month_numeric	Residual	30	6.806192476127634	0.5217620627963309	NA	NA
+endo	host + latitude + longitude + month_numeric	Total	35	13.044628886298353	1	NA	NA
+endo	host + county + month	host	2	3.0553919090965316	0.23422605086955092	7.544451223538737	0.001
+endo	host + county + month	county	5	1.4162911813403154	0.10857274619962097	1.3988568476781262	0.097
+endo	host + county + month	collection_month	5	1.498333226252086	0.11486208149822383	1.4798889672269737	0.066
+endo	host + county + month	Residual	23	4.657331052122442	0.3570305520162669	NA	NA
+endo	host + county + month	Total	35	13.044628886298353	1	NA	NA
+endo	host + site + month	host	1	1.4116452980688727	0.10821659323337425	7.468855058190466	0.001
+endo	host + site + month	site	18	4.183579801161474	0.32071282653014127	1.2297136619389188	0.153
+endo	host + site + month	collection_month	3	0.5093160689299943	0.039044121022481754	0.8982445053889352	0.565
+endo	host + site + month	Residual	10	1.8900424323013736	0.14489047168575347	NA	NA
+endo	host + site + month	Total	35	13.044628886298353	1	NA	NA

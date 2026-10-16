@@ -1,0 +1,261 @@
+sample,host,enrichment,metric,value
+Sample_10906_255_322,NA,Unenriched,Average mosquito genome coverage,5.49
+Sample_10906_255_322,NA,Unenriched,Mosquito genome coverage per million mosquito reads,4.75e-5
+Sample_10906_255_322,NA,Unenriched,Percent mosquito,0.4468
+Sample_10906_255_322,NA,Unenriched,Viral reads (log10 + 1),5.847175814032742
+Sample_10906_255_322,NA,Unenriched,Non-mosquito reads (log10 + 1),7.346271409418085
+Sample_11261-24_036_157,NA,Unenriched,Average mosquito genome coverage,2.3
+Sample_11261-24_036_157,NA,Unenriched,Mosquito genome coverage per million mosquito reads,1.63e-5
+Sample_11261-24_036_157,NA,Unenriched,Percent mosquito,0.5449
+Sample_11261-24_036_157,NA,Unenriched,Viral reads (log10 + 1),6.054453324305784
+Sample_11261-24_036_157,NA,Unenriched,Non-mosquito reads (log10 + 1),6.769549754021536
+Sample_11273_059_134,NA,Unenriched,Average mosquito genome coverage,2
+Sample_11273_059_134,NA,Unenriched,Mosquito genome coverage per million mosquito reads,2.32e-5
+Sample_11273_059_134,NA,Unenriched,Percent mosquito,0.3334
+Sample_11273_059_134,NA,Unenriched,Viral reads (log10 + 1),4.853959682947823
+Sample_11273_059_134,NA,Unenriched,Non-mosquito reads (log10 + 1),7.062140283366131
+Sample_12147_071_122,NA,Unenriched,Average mosquito genome coverage,1.94
+Sample_12147_071_122,NA,Unenriched,Mosquito genome coverage per million mosquito reads,2.31e-5
+Sample_12147_071_122,NA,Unenriched,Percent mosquito,0.325
+Sample_12147_071_122,NA,Unenriched,Viral reads (log10 + 1),4.3596837372363515
+Sample_12147_071_122,NA,Unenriched,Non-mosquito reads (log10 + 1),7.0576143429629035
+Sample_16222-18_279_298,NA,Unenriched,Average mosquito genome coverage,4.53
+Sample_16222-18_279_298,NA,Unenriched,Mosquito genome coverage per million mosquito reads,3.28e-5
+Sample_16222-18_279_298,NA,Unenriched,Percent mosquito,0.533
+Sample_16222-18_279_298,NA,Unenriched,Viral reads (log10 + 1),4.941730015572418
+Sample_16222-18_279_298,NA,Unenriched,Non-mosquito reads (log10 + 1),7.259213860275644
+Sample_2242_024_169,NA,Unenriched,Average mosquito genome coverage,3.77
+Sample_2242_024_169,NA,Unenriched,Mosquito genome coverage per million mosquito reads,4.69e-5
+Sample_2242_024_169,NA,Unenriched,Percent mosquito,0.3107
+Sample_2242_024_169,NA,Unenriched,Viral reads (log10 + 1),4.714941365513727
+Sample_2242_024_169,NA,Unenriched,Non-mosquito reads (log10 + 1),7.085071305875584
+Sample_4323-24_096_097,NA,Unenriched,Average mosquito genome coverage,3.31
+Sample_4323-24_096_097,NA,Unenriched,Mosquito genome coverage per million mosquito reads,7.75e-5
+Sample_4323-24_096_097,NA,Unenriched,Percent mosquito,0.165
+Sample_4323-24_096_097,NA,Unenriched,Viral reads (log10 + 1),6.703221541391181
+Sample_4323-24_096_097,NA,Unenriched,Non-mosquito reads (log10 + 1),6.955815134296975
+Sample_440_083_110,NA,Unenriched,Average mosquito genome coverage,3.82
+Sample_440_083_110,NA,Unenriched,Mosquito genome coverage per million mosquito reads,3.66e-5
+Sample_440_083_110,NA,Unenriched,Percent mosquito,0.4032
+Sample_440_083_110,NA,Unenriched,Viral reads (log10 + 1),5.0643793598324915
+Sample_440_083_110,NA,Unenriched,Non-mosquito reads (log10 + 1),6.996854113151816
+Sample_6271-24_048_145,NA,Unenriched,Average mosquito genome coverage,2.05
+Sample_6271-24_048_145,NA,Unenriched,Mosquito genome coverage per million mosquito reads,2.01e-5
+Sample_6271-24_048_145,NA,Unenriched,Percent mosquito,0.3935
+Sample_6271-24_048_145,NA,Unenriched,Viral reads (log10 + 1),6.306634939429303
+Sample_6271-24_048_145,NA,Unenriched,Non-mosquito reads (log10 + 1),6.874130355060544
+Sample_66_095_098,NA,Unenriched,Average mosquito genome coverage,3.14
+Sample_66_095_098,NA,Unenriched,Mosquito genome coverage per million mosquito reads,3.46e-5
+Sample_66_095_098,NA,Unenriched,Percent mosquito,0.351
+Sample_66_095_098,NA,Unenriched,Viral reads (log10 + 1),4.5862045969160015
+Sample_66_095_098,NA,Unenriched,Non-mosquito reads (log10 + 1),7.083076178449292
+Sample_6711_206_371,NA,Unenriched,Average mosquito genome coverage,4.9
+Sample_6711_206_371,NA,Unenriched,Mosquito genome coverage per million mosquito reads,4.64e-5
+Sample_6711_206_371,NA,Unenriched,Percent mosquito,0.4078
+Sample_6711_206_371,NA,Unenriched,Viral reads (log10 + 1),5.463830302784252
+Sample_6711_206_371,NA,Unenriched,Non-mosquito reads (log10 + 1),7.291748514496504
+Sample_7800_230_347,NA,Unenriched,Average mosquito genome coverage,3.79
+Sample_7800_230_347,NA,Unenriched,Mosquito genome coverage per million mosquito reads,3.22e-5
+Sample_7800_230_347,NA,Unenriched,Percent mosquito,0.4549
+Sample_7800_230_347,NA,Unenriched,Viral reads (log10 + 1),5.821109177791115
+Sample_7800_230_347,NA,Unenriched,Non-mosquito reads (log10 + 1),7.154639727654016
+Sample_7836-24_072_121,NA,Unenriched,Average mosquito genome coverage,3.72
+Sample_7836-24_072_121,NA,Unenriched,Mosquito genome coverage per million mosquito reads,2.74e-5
+Sample_7836-24_072_121,NA,Unenriched,Percent mosquito,0.5236
+Sample_7836-24_072_121,NA,Unenriched,Viral reads (log10 + 1),4.643284848467497
+Sample_7836-24_072_121,NA,Unenriched,Non-mosquito reads (log10 + 1),6.779476213989209
+Sample_8292-24_084_109,NA,Unenriched,Average mosquito genome coverage,2.77
+Sample_8292-24_084_109,NA,Unenriched,Mosquito genome coverage per million mosquito reads,6.98e-5
+Sample_8292-24_084_109,NA,Unenriched,Percent mosquito,0.1533
+Sample_8292-24_084_109,NA,Unenriched,Viral reads (log10 + 1),6.562580831140184
+Sample_8292-24_084_109,NA,Unenriched,Non-mosquito reads (log10 + 1),6.991692425890324
+Sample_9171-24_060_133,NA,Unenriched,Average mosquito genome coverage,4.46
+Sample_9171-24_060_133,NA,Unenriched,Mosquito genome coverage per million mosquito reads,2.55e-5
+Sample_9171-24_060_133,NA,Unenriched,Percent mosquito,0.6751
+Sample_9171-24_060_133,NA,Unenriched,Viral reads (log10 + 1),5.095716670934584
+Sample_9171-24_060_133,NA,Unenriched,Non-mosquito reads (log10 + 1),6.714032946339326
+Sample_9208_012_181,NA,Unenriched,Average mosquito genome coverage,3.65
+Sample_9208_012_181,NA,Unenriched,Mosquito genome coverage per million mosquito reads,4.76e-5
+Sample_9208_012_181,NA,Unenriched,Percent mosquito,0.2963
+Sample_9208_012_181,NA,Unenriched,Viral reads (log10 + 1),5.261003404459663
+Sample_9208_012_181,NA,Unenriched,Non-mosquito reads (log10 + 1),7.090111299402365
+Sample_E10906_243_334,NA,Enriched,Average mosquito genome coverage,6.98
+Sample_E10906_243_334,NA,Enriched,Mosquito genome coverage per million mosquito reads,6.49e-5
+Sample_E10906_243_334,NA,Enriched,Percent mosquito,0.4153
+Sample_E10906_243_334,NA,Enriched,Viral reads (log10 + 1),6.983091816758348
+Sample_E10906_243_334,NA,Enriched,Non-mosquito reads (log10 + 1),7.422093761720064
+Sample_E11273-18_290_287,NA,Enriched,Average mosquito genome coverage,3.37
+Sample_E11273-18_290_287,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.98e-5
+Sample_E11273-18_290_287,NA,Enriched,Percent mosquito,0.4375
+Sample_E11273-18_290_287,NA,Enriched,Viral reads (log10 + 1),6.080947760404934
+Sample_E11273-18_290_287,NA,Enriched,Non-mosquito reads (log10 + 1),7.238982891998167
+Sample_E12147-16_302_275,NA,Enriched,Average mosquito genome coverage,2.68
+Sample_E12147-16_302_275,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.97e-5
+Sample_E12147-16_302_275,NA,Enriched,Percent mosquito,0.3487
+Sample_E12147-16_302_275,NA,Enriched,Viral reads (log10 + 1),5.465897156015574
+Sample_E12147-16_302_275,NA,Enriched,Non-mosquito reads (log10 + 1),7.204762344628471
+Sample_E12664_317_260,NA,Enriched,Average mosquito genome coverage,7.26
+Sample_E12664_317_260,NA,Enriched,Mosquito genome coverage per million mosquito reads,1.17765e-4
+Sample_E12664_317_260,NA,Enriched,Percent mosquito,0.2381
+Sample_E12664_317_260,NA,Enriched,Viral reads (log10 + 1),6.775358098028411
+Sample_E12664_317_260,NA,Enriched,Non-mosquito reads (log10 + 1),7.398075018524807
+Sample_E12717_305_272,NA,Enriched,Average mosquito genome coverage,11.82
+Sample_E12717_305_272,NA,Enriched,Mosquito genome coverage per million mosquito reads,1.2135e-4
+Sample_E12717_305_272,NA,Enriched,Percent mosquito,0.3762
+Sample_E12717_305_272,NA,Enriched,Viral reads (log10 + 1),5.721937506256339
+Sample_E12717_305_272,NA,Enriched,Non-mosquito reads (log10 + 1),7.229256732069502
+Sample_E13649_293_284,NA,Enriched,Average mosquito genome coverage,7.36
+Sample_E13649_293_284,NA,Enriched,Mosquito genome coverage per million mosquito reads,1.03632e-4
+Sample_E13649_293_284,NA,Enriched,Percent mosquito,0.2743
+Sample_E13649_293_284,NA,Enriched,Viral reads (log10 + 1),6.748369229592577
+Sample_E13649_293_284,NA,Enriched,Non-mosquito reads (log10 + 1),7.304324511969932
+Sample_E1488_375_202,NA,Enriched,Average mosquito genome coverage,4.13
+Sample_E1488_375_202,NA,Enriched,Mosquito genome coverage per million mosquito reads,3.95e-5
+Sample_E1488_375_202,NA,Enriched,Percent mosquito,0.4043
+Sample_E1488_375_202,NA,Enriched,Viral reads (log10 + 1),6.08192310435106
+Sample_E1488_375_202,NA,Enriched,Non-mosquito reads (log10 + 1),7.216003744209961
+Sample_E16222-18_267_310,NA,Enriched,Average mosquito genome coverage,4.66
+Sample_E16222-18_267_310,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.06e-5
+Sample_E16222-18_267_310,NA,Enriched,Percent mosquito,0.4428
+Sample_E16222-18_267_310,NA,Enriched,Viral reads (log10 + 1),4.806492011017874
+Sample_E16222-18_267_310,NA,Enriched,Non-mosquito reads (log10 + 1),7.278652535725574
+Sample_E2242_377_200,NA,Enriched,Average mosquito genome coverage,9.53
+Sample_E2242_377_200,NA,Enriched,Mosquito genome coverage per million mosquito reads,9.13e-5
+Sample_E2242_377_200,NA,Enriched,Percent mosquito,0.4033
+Sample_E2242_377_200,NA,Enriched,Viral reads (log10 + 1),5.715019220595685
+Sample_E2242_377_200,NA,Enriched,Non-mosquito reads (log10 + 1),7.205101978598819
+Sample_E2388_328_249,NA,Enriched,Average mosquito genome coverage,4.24
+Sample_E2388_328_249,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.5e-5
+Sample_E2388_328_249,NA,Enriched,Percent mosquito,0.3642
+Sample_E2388_328_249,NA,Enriched,Viral reads (log10 + 1),5.114260605446002
+Sample_E2388_328_249,NA,Enriched,Non-mosquito reads (log10 + 1),7.175223511987938
+Sample_E3888_316_261,NA,Enriched,Average mosquito genome coverage,5.69
+Sample_E3888_316_261,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.22e-5
+Sample_E3888_316_261,NA,Enriched,Percent mosquito,0.5213
+Sample_E3888_316_261,NA,Enriched,Viral reads (log10 + 1),5.2393720640693875
+Sample_E3888_316_261,NA,Enriched,Non-mosquito reads (log10 + 1),7.049528161026332
+Sample_E4265_304_273,NA,Enriched,Average mosquito genome coverage,5.92
+Sample_E4265_304_273,NA,Enriched,Mosquito genome coverage per million mosquito reads,6.38e-5
+Sample_E4265_304_273,NA,Enriched,Percent mosquito,0.3584
+Sample_E4265_304_273,NA,Enriched,Viral reads (log10 + 1),5.493701968149538
+Sample_E4265_304_273,NA,Enriched,Non-mosquito reads (log10 + 1),7.239009143223283
+Sample_E440_340_237,NA,Enriched,Average mosquito genome coverage,6.04
+Sample_E440_340_237,NA,Enriched,Mosquito genome coverage per million mosquito reads,5.92e-5
+Sample_E440_340_237,NA,Enriched,Percent mosquito,0.3943
+Sample_E440_340_237,NA,Enriched,Viral reads (log10 + 1),5.591585447962685
+Sample_E440_340_237,NA,Enriched,Non-mosquito reads (log10 + 1),7.285349045253871
+Sample_E5422_376_201,NA,Enriched,Average mosquito genome coverage,8.97
+Sample_E5422_376_201,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.20805e-4
+Sample_E5422_376_201,NA,Enriched,Percent mosquito,0.1569
+Sample_E5422_376_201,NA,Enriched,Viral reads (log10 + 1),7.1073309784453516
+Sample_E5422_376_201,NA,Enriched,Non-mosquito reads (log10 + 1),7.390504394775359
+Sample_E66_352_225,NA,Enriched,Average mosquito genome coverage,8.09
+Sample_E66_352_225,NA,Enriched,Mosquito genome coverage per million mosquito reads,6.23e-5
+Sample_E66_352_225,NA,Enriched,Percent mosquito,0.5012
+Sample_E66_352_225,NA,Enriched,Viral reads (log10 + 1),5.526154404383088
+Sample_E66_352_225,NA,Enriched,Non-mosquito reads (log10 + 1),7.169119222567061
+Sample_E6711_194_383,NA,Enriched,Average mosquito genome coverage,3.76
+Sample_E6711_194_383,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.64e-5
+Sample_E6711_194_383,NA,Enriched,Percent mosquito,0.313
+Sample_E6711_194_383,NA,Enriched,Viral reads (log10 + 1),5.110566143292593
+Sample_E6711_194_383,NA,Enriched,Non-mosquito reads (log10 + 1),7.260749860459185
+Sample_E6915_364_213,NA,Enriched,Average mosquito genome coverage,5.95
+Sample_E6915_364_213,NA,Enriched,Mosquito genome coverage per million mosquito reads,7.81e-5
+Sample_E6915_364_213,NA,Enriched,Percent mosquito,0.2944
+Sample_E6915_364_213,NA,Enriched,Viral reads (log10 + 1),6.5541115170307
+Sample_E6915_364_213,NA,Enriched,Non-mosquito reads (log10 + 1),7.276651037207518
+Sample_E7231_365_212,NA,Enriched,Average mosquito genome coverage,7.29
+Sample_E7231_365_212,NA,Enriched,Mosquito genome coverage per million mosquito reads,8.58e-5
+Sample_E7231_365_212,NA,Enriched,Percent mosquito,0.328
+Sample_E7231_365_212,NA,Enriched,Viral reads (log10 + 1),6.216760043515635
+Sample_E7231_365_212,NA,Enriched,Non-mosquito reads (log10 + 1),7.3688451941176565
+Sample_E7800_218_359,NA,Enriched,Average mosquito genome coverage,3.47
+Sample_E7800_218_359,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.01e-5
+Sample_E7800_218_359,NA,Enriched,Percent mosquito,0.3339
+Sample_E7800_218_359,NA,Enriched,Viral reads (log10 + 1),6.544305600491297
+Sample_E7800_218_359,NA,Enriched,Non-mosquito reads (log10 + 1),7.2616576474194545
+Sample_E8244_353_224,NA,Enriched,Average mosquito genome coverage,3.96
+Sample_E8244_353_224,NA,Enriched,Mosquito genome coverage per million mosquito reads,1.69e-4
+Sample_E8244_353_224,NA,Enriched,Percent mosquito,0.0905
+Sample_E8244_353_224,NA,Enriched,Viral reads (log10 + 1),6.411770167984231
+Sample_E8244_353_224,NA,Enriched,Non-mosquito reads (log10 + 1),7.405044571820334
+Sample_E8933-19_292_285,NA,Enriched,Average mosquito genome coverage,4.03
+Sample_E8933-19_292_285,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.15e-5
+Sample_E8933-19_292_285,NA,Enriched,Percent mosquito,0.3748
+Sample_E8933-19_292_285,NA,Enriched,Viral reads (log10 + 1),4.5386616896384036
+Sample_E8933-19_292_285,NA,Enriched,Non-mosquito reads (log10 + 1),7.167220154178762
+Sample_E9208_341_236,NA,Enriched,Average mosquito genome coverage,7.29
+Sample_E9208_341_236,NA,Enriched,Mosquito genome coverage per million mosquito reads,1.14315e-4
+Sample_E9208_341_236,NA,Enriched,Percent mosquito,0.2463
+Sample_E9208_341_236,NA,Enriched,Viral reads (log10 + 1),6.702591471324157
+Sample_E9208_341_236,NA,Enriched,Non-mosquito reads (log10 + 1),7.234525913637797
+Sample_E9621_363_214,NA,Enriched,Average mosquito genome coverage,2.97
+Sample_E9621_363_214,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.84e-5
+Sample_E9621_363_214,NA,Enriched,Percent mosquito,0.4046
+Sample_E9621_363_214,NA,Enriched,Viral reads (log10 + 1),5.419889691073568
+Sample_E9621_363_214,NA,Enriched,Non-mosquito reads (log10 + 1),7.241748813689309
+Sample_E9906_329_248,NA,Enriched,Average mosquito genome coverage,4.35
+Sample_E9906_329_248,NA,Enriched,Mosquito genome coverage per million mosquito reads,9.18e-5
+Sample_E9906_329_248,NA,Enriched,Percent mosquito,0.183
+Sample_E9906_329_248,NA,Enriched,Viral reads (log10 + 1),7.094449081435367
+Sample_E9906_329_248,NA,Enriched,Non-mosquito reads (log10 + 1),7.411661466924701
+Sample_EAal-10_350_227,NA,Enriched,Average mosquito genome coverage,3.23
+Sample_EAal-10_350_227,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.55e-5
+Sample_EAal-10_350_227,NA,Enriched,Percent mosquito,0.4901
+Sample_EAal-10_350_227,NA,Enriched,Viral reads (log10 + 1),5.742601029437329
+Sample_EAal-10_350_227,NA,Enriched,Non-mosquito reads (log10 + 1),7.1398214598827865
+Sample_EAal-11_338_239,NA,Enriched,Average mosquito genome coverage,3.05
+Sample_EAal-11_338_239,NA,Enriched,Mosquito genome coverage per million mosquito reads,2.51e-5
+Sample_EAal-11_338_239,NA,Enriched,Percent mosquito,0.4697
+Sample_EAal-11_338_239,NA,Enriched,Viral reads (log10 + 1),6.293254685994792
+Sample_EAal-11_338_239,NA,Enriched,Non-mosquito reads (log10 + 1),7.211917005280408
+Sample_EAal-12_326_251,NA,Enriched,Average mosquito genome coverage,3.3
+Sample_EAal-12_326_251,NA,Enriched,Mosquito genome coverage per million mosquito reads,3.18e-5
+Sample_EAal-12_326_251,NA,Enriched,Percent mosquito,0.4005
+Sample_EAal-12_326_251,NA,Enriched,Viral reads (log10 + 1),6.248935988755424
+Sample_EAal-12_326_251,NA,Enriched,Non-mosquito reads (log10 + 1),7.208848021438024
+Sample_EAal-13_314_263,NA,Enriched,Average mosquito genome coverage,3.8
+Sample_EAal-13_314_263,NA,Enriched,Mosquito genome coverage per million mosquito reads,3.52e-5
+Sample_EAal-13_314_263,NA,Enriched,Percent mosquito,0.4174
+Sample_EAal-13_314_263,NA,Enriched,Viral reads (log10 + 1),6.1578066014562465
+Sample_EAal-13_314_263,NA,Enriched,Non-mosquito reads (log10 + 1),7.293570148684091
+Sample_EAal-2_351_226,NA,Enriched,Average mosquito genome coverage,3.4
+Sample_EAal-2_351_226,NA,Enriched,Mosquito genome coverage per million mosquito reads,5.68e-5
+Sample_EAal-2_351_226,NA,Enriched,Percent mosquito,0.231
+Sample_EAal-2_351_226,NA,Enriched,Viral reads (log10 + 1),6.558511893780513
+Sample_EAal-2_351_226,NA,Enriched,Non-mosquito reads (log10 + 1),7.3812290657945105
+Sample_EAal-3_339_238,NA,Enriched,Average mosquito genome coverage,4.92
+Sample_EAal-3_339_238,NA,Enriched,Mosquito genome coverage per million mosquito reads,7.23e-5
+Sample_EAal-3_339_238,NA,Enriched,Percent mosquito,0.263
+Sample_EAal-3_339_238,NA,Enriched,Viral reads (log10 + 1),6.802382684263392
+Sample_EAal-3_339_238,NA,Enriched,Non-mosquito reads (log10 + 1),7.254526688122819
+Sample_EAal-4_327_250,NA,Enriched,Average mosquito genome coverage,4.11
+Sample_EAal-4_327_250,NA,Enriched,Mosquito genome coverage per million mosquito reads,5.15e-5
+Sample_EAal-4_327_250,NA,Enriched,Percent mosquito,0.3081
+Sample_EAal-4_327_250,NA,Enriched,Viral reads (log10 + 1),6.605588915124527
+Sample_EAal-4_327_250,NA,Enriched,Non-mosquito reads (log10 + 1),7.355397282612046
+Sample_EAal-5_315_262,NA,Enriched,Average mosquito genome coverage,3.26
+Sample_EAal-5_315_262,NA,Enriched,Mosquito genome coverage per million mosquito reads,3e-5
+Sample_EAal-5_315_262,NA,Enriched,Percent mosquito,0.4196
+Sample_EAal-5_315_262,NA,Enriched,Viral reads (log10 + 1),6.275413868194892
+Sample_EAal-5_315_262,NA,Enriched,Non-mosquito reads (log10 + 1),7.21272582256251
+Sample_EAal-6_303_274,NA,Enriched,Average mosquito genome coverage,3.51
+Sample_EAal-6_303_274,NA,Enriched,Mosquito genome coverage per million mosquito reads,3.75e-5
+Sample_EAal-6_303_274,NA,Enriched,Percent mosquito,0.3614
+Sample_EAal-6_303_274,NA,Enriched,Viral reads (log10 + 1),6.493521203835166
+Sample_EAal-6_303_274,NA,Enriched,Non-mosquito reads (log10 + 1),7.249585037594304
+Sample_EAal-7_291_286,NA,Enriched,Average mosquito genome coverage,4.21
+Sample_EAal-7_291_286,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.23e-5
+Sample_EAal-7_291_286,NA,Enriched,Percent mosquito,0.3842
+Sample_EAal-7_291_286,NA,Enriched,Viral reads (log10 + 1),6.431026170083024
+Sample_EAal-7_291_286,NA,Enriched,Non-mosquito reads (log10 + 1),7.17239498630062
+Sample_EAal-8_374_203,NA,Enriched,Average mosquito genome coverage,3.59
+Sample_EAal-8_374_203,NA,Enriched,Mosquito genome coverage per million mosquito reads,4.44e-5
+Sample_EAal-8_374_203,NA,Enriched,Percent mosquito,0.3124
+Sample_EAal-8_374_203,NA,Enriched,Viral reads (log10 + 1),6.767189197832521
+Sample_EAal-8_374_203,NA,Enriched,Non-mosquito reads (log10 + 1),7.252113931967917
+Sample_EAal-9_362_215,NA,Enriched,Average mosquito genome coverage,3
+Sample_EAal-9_362_215,NA,Enriched,Mosquito genome coverage per million mosquito reads,3.25e-5
+Sample_EAal-9_362_215,NA,Enriched,Percent mosquito,0.3569
+Sample_EAal-9_362_215,NA,Enriched,Viral reads (log10 + 1),6.521801576256692
+Sample_EAal-9_362_215,NA,Enriched,Non-mosquito reads (log10 + 1),7.1510851208798725

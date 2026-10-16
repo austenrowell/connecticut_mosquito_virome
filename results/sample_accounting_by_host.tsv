@@ -1,0 +1,4 @@
+host	n_pools	total_mosquitoes	n_sites	n_counties	n_trap_types
+Aedes albopictus	16	451	6	3	4
+Culex pipiens	10	500	10	5	2
+Culiseta melanura	10	500	9	6	1

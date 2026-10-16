@@ -1,0 +1,14 @@
+Permutation test for adonis under reduced model
+Marginal effects of terms
+Permutation: free
+Number of permutations: 999
+
+vegan::adonis2(formula = dist_sub ~ host + site + collection_month, data = df, permutations = 999, by = "margin")
+                 Df SumOfSqs      R2      F Pr(>F)    
+host              1   1.3402 0.10554 6.9766  0.001 ***
+site             18   4.2048 0.33110 1.2160  0.160    
+collection_month  3   0.5250 0.04134 0.9109  0.589    
+Residual         10   1.9211 0.15127                  
+Total            35  12.6994 1.00000                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

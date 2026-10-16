@@ -1,0 +1,6 @@
+metric,.y..x,group1.x,group2.x,n1.x,n2.x,statistic,p,p.adj,p.adj.signif,.y..y,group1.y,group2.y,effsize,n1.y,n2.y,magnitude,ymax,ymin,y.label,label_text,x
+Average mosquito genome coverage,value,Unenriched,Enriched,16,36,163,0.0136,0.016999999999999998,*,value,Unenriched,Enriched,0.34368379670372085,16,36,moderate,11.82,1.94,12.6104,*   r = 0.34,1.5
+Mosquito genome coverage per million mosquito reads,value,Unenriched,Enriched,16,36,162,0.0128,0.016999999999999998,*,value,Unenriched,Enriched,0.34644066183421823,16,36,moderate,2.20805e-4,1.63e-5,2.3716539999999998e-4,*   r = 0.35,1.5
+Percent mosquito,value,Unenriched,Enriched,16,36,343,0.283,0.283,ns,value,Unenriched,Enriched,0.15121764288626313,16,36,small,0.6751,0.0905,0.7218680000000001,ns   r = 0.15,1.5
+Viral reads (log10 + 1),value,Unenriched,Enriched,16,36,137,0.00224,0.005599999999999999,**,value,Unenriched,Enriched,0.4151611650150133,16,36,moderate,7.1073309784453516,4.3596837372363515,7.327142757742072,**   r = 0.42,1.5
+Non-mosquito reads (log10 + 1),value,Unenriched,Enriched,16,36,83,1.62e-5,8.1e-5,****,value,Unenriched,Enriched,0.5636293962124354,16,36,large,7.422093761720064,6.714032946339326,7.478738626950523,****   r = 0.56,1.5

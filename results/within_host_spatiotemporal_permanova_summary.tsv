@@ -1,0 +1,133 @@
+dataset	host	model	term	df	sum_of_squares	r_squared	f_statistic	p_value	status	reason	n_samples
+total	Aedes albopictus	county	county	2	0.169396034554826	0.07711259209269249	0.543112674750942	0.748	ok	NA	16
+total	Aedes albopictus	county	Residual	13	2.027340321437525	0.922887407907307	NA	NA	ok	NA	16
+total	Aedes albopictus	county	Total	15	2.1967363559923525	1	NA	NA	ok	NA	16
+total	Aedes albopictus	site	site	5	0.527529369913718	0.2401423222566971	0.6320718452694843	0.788	ok	NA	16
+total	Aedes albopictus	site	Residual	10	1.6692069860786332	0.7598576777433023	NA	NA	ok	NA	16
+total	Aedes albopictus	site	Total	15	2.1967363559923525	1	NA	NA	ok	NA	16
+total	Aedes albopictus	collection_month	collection_month	4	0.3604759479713846	0.16409613606478662	0.5398520017047543	0.842	ok	NA	16
+total	Aedes albopictus	collection_month	Residual	11	1.8362604080209666	0.8359038639352128	NA	NA	ok	NA	16
+total	Aedes albopictus	collection_month	Total	15	2.1967363559923525	1	NA	NA	ok	NA	16
+total	Aedes albopictus	county_plus_month	county	1	0.12402532484681417	0.05645890300330876	0.7243475271917409	0.526	ok	NA	16
+total	Aedes albopictus	county_plus_month	collection_month	3	0.315105238263373	0.14344244697540298	0.6134384259105921	0.756	ok	NA	16
+total	Aedes albopictus	county_plus_month	Residual	10	1.7122350831741517	0.7794449609319037	NA	NA	ok	NA	16
+total	Aedes albopictus	county_plus_month	Total	15	2.1967363559923525	1	NA	NA	ok	NA	16
+total	Aedes albopictus	lat_long_month_numeric	latitude	1	0.17696623093376163	0.08055870266407959	1.124425234392669	0.316	ok	NA	16
+total	Aedes albopictus	lat_long_month_numeric	longitude	1	0.10215841976374285	0.04650463378778737	0.6491040945039217	0.53	ok	NA	16
+total	Aedes albopictus	lat_long_month_numeric	collection_month_num	1	0.13958002874455167	0.0635397271792763	0.8868771500048125	0.438	ok	NA	16
+total	Aedes albopictus	lat_long_month_numeric	Residual	12	1.888604689979363	0.8597320679049834	NA	NA	ok	NA	16
+total	Aedes albopictus	lat_long_month_numeric	Total	15	2.1967363559923525	1	NA	NA	ok	NA	16
+total	Culex pipiens	county	county	4	1.7874778635378556	0.5677837718376759	1.6420709555832513	0.072	ok	NA	10
+total	Culex pipiens	county	Residual	5	1.3606886607580828	0.43221622816232336	NA	NA	ok	NA	10
+total	Culex pipiens	county	Total	9	3.1481665242959407	1	NA	NA	ok	NA	10
+total	Culex pipiens	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+total	Culex pipiens	collection_month	collection_month	3	1.1029080662416715	0.3503334584527186	1.0785023886818788	0.334	ok	NA	10
+total	Culex pipiens	collection_month	Residual	6	2.045258458054267	0.6496665415472807	NA	NA	ok	NA	10
+total	Culex pipiens	collection_month	Total	9	3.1481665242959407	1	NA	NA	ok	NA	10
+total	Culex pipiens	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+total	Culex pipiens	lat_long_month_numeric	latitude	1	0.2931317502217039	0.09311189479954851	0.8881465201622947	0.538	ok	NA	10
+total	Culex pipiens	lat_long_month_numeric	longitude	1	0.7157164768313915	0.22734390678125108	2.1685167090901936	0.048	ok	NA	10
+total	Culex pipiens	lat_long_month_numeric	collection_month_num	1	0.285378896197942	0.09064923789625913	0.8646565013658916	0.556	ok	NA	10
+total	Culex pipiens	lat_long_month_numeric	Residual	6	1.980293185192948	0.6290306341516743	NA	NA	ok	NA	10
+total	Culex pipiens	lat_long_month_numeric	Total	9	3.1481665242959407	1	NA	NA	ok	NA	10
+total	Culiseta melanura	county	county	5	1.2510977800129275	0.5259797214385168	0.8876915106412183	0.562	ok	NA	10
+total	Culiseta melanura	county	Residual	4	1.1275068106569635	0.47402027856148243	NA	NA	ok	NA	10
+total	Culiseta melanura	county	Total	9	2.3786045906698927	1	NA	NA	ok	NA	10
+total	Culiseta melanura	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+total	Culiseta melanura	collection_month	collection_month	4	1.2307345879284297	0.5174187390186675	1.3402373363153741	0.276	ok	NA	10
+total	Culiseta melanura	collection_month	Residual	5	1.1478700027414612	0.48258126098133175	NA	NA	ok	NA	10
+total	Culiseta melanura	collection_month	Total	9	2.3786045906698927	1	NA	NA	ok	NA	10
+total	Culiseta melanura	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+total	Culiseta melanura	lat_long_month_numeric	latitude	1	0.011738775876527274	0.004935152283222177	0.047850142540277626	0.998	ok	NA	10
+total	Culiseta melanura	lat_long_month_numeric	longitude	1	0.12056252480941043	0.05068624069856692	0.4914425539618269	0.718	ok	NA	10
+total	Culiseta melanura	lat_long_month_numeric	collection_month_num	1	0.6687251952183255	0.2811418080337559	2.725888648701088	0.092	ok	NA	10
+total	Culiseta melanura	lat_long_month_numeric	Residual	6	1.4719424336066982	0.6188260290846203	NA	NA	ok	NA	10
+total	Culiseta melanura	lat_long_month_numeric	Total	9	2.3786045906698927	1	NA	NA	ok	NA	10
+endo	Aedes albopictus	county	county	2	0.15726532798556914	0.07302606618370516	0.5120634064001114	0.79	ok	NA	16
+endo	Aedes albopictus	county	Residual	13	1.9962852629767158	0.9269739338162952	NA	NA	ok	NA	16
+endo	Aedes albopictus	county	Total	15	2.153550590962284	1	NA	NA	ok	NA	16
+endo	Aedes albopictus	site	site	5	0.5064138045733522	0.23515296399285807	0.6149019422771539	0.804	ok	NA	16
+endo	Aedes albopictus	site	Residual	10	1.6471367863889328	0.7648470360071423	NA	NA	ok	NA	16
+endo	Aedes albopictus	site	Total	15	2.153550590962284	1	NA	NA	ok	NA	16
+endo	Aedes albopictus	collection_month	collection_month	4	0.3517626137870187	0.16334077094043956	0.5368818086081635	0.836	ok	NA	16
+endo	Aedes albopictus	collection_month	Residual	11	1.8017879771752663	0.8366592290595608	NA	NA	ok	NA	16
+endo	Aedes albopictus	collection_month	Total	15	2.153550590962284	1	NA	NA	ok	NA	16
+endo	Aedes albopictus	county_plus_month	county	1	0.11853262126458453	0.05504055570462353	0.7041868059315077	0.494	ok	NA	16
+endo	Aedes albopictus	county_plus_month	collection_month	3	0.31302990706603495	0.14535526046135833	0.6198899174088345	0.7	ok	NA	16
+endo	Aedes albopictus	county_plus_month	Residual	10	1.6832553559106802	0.7816186733549366	NA	NA	ok	NA	16
+endo	Aedes albopictus	county_plus_month	Total	15	2.153550590962284	1	NA	NA	ok	NA	16
+endo	Aedes albopictus	lat_long_month_numeric	latitude	1	0.18524501351571088	0.08601841734906109	1.2081011682381402	0.308	ok	NA	16
+endo	Aedes albopictus	lat_long_month_numeric	longitude	1	0.107824816051042	0.05006839240440689	0.7031945625099301	0.494	ok	NA	16
+endo	Aedes albopictus	lat_long_month_numeric	collection_month_num	1	0.15433701057775995	0.07166630365010214	1.006530320264521	0.33	ok	NA	16
+endo	Aedes albopictus	lat_long_month_numeric	Residual	12	1.840028153793115	0.8544160334635668	NA	NA	ok	NA	16
+endo	Aedes albopictus	lat_long_month_numeric	Total	15	2.153550590962284	1	NA	NA	ok	NA	16
+endo	Culex pipiens	county	county	4	1.8035700140115387	0.5813517614990967	1.7358002137450876	0.058	ok	NA	10
+endo	Culex pipiens	county	Residual	5	1.2988029956801839	0.41864823850090244	NA	NA	ok	NA	10
+endo	Culex pipiens	county	Total	9	3.1023730096917252	1	NA	NA	ok	NA	10
+endo	Culex pipiens	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+endo	Culex pipiens	collection_month	collection_month	3	1.0758897225388586	0.34679573319449647	1.0618293566589883	0.392	ok	NA	10
+endo	Culex pipiens	collection_month	Residual	6	2.026483287152864	0.6532042668055027	NA	NA	ok	NA	10
+endo	Culex pipiens	collection_month	Total	9	3.1023730096917252	1	NA	NA	ok	NA	10
+endo	Culex pipiens	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+endo	Culex pipiens	lat_long_month_numeric	latitude	1	0.33090961108077166	0.10666338639712872	1.0883340841266285	0.37	ok	NA	10
+endo	Culex pipiens	lat_long_month_numeric	longitude	1	0.8629418701751639	0.2781554208598895	2.8381437664026183	0.01	ok	NA	10
+endo	Culex pipiens	lat_long_month_numeric	collection_month_num	1	0.2994090704055308	0.09650969418254521	0.9847314357378099	0.436	ok	NA	10
+endo	Culex pipiens	lat_long_month_numeric	Residual	6	1.8243090016591086	0.5880366403266206	NA	NA	ok	NA	10
+endo	Culex pipiens	lat_long_month_numeric	Total	9	3.1023730096917252	1	NA	NA	ok	NA	10
+endo	Culiseta melanura	county	county	5	1.2402097476964622	0.5237308360287971	0.8797224353755799	0.558	ok	NA	10
+endo	Culiseta melanura	county	Residual	4	1.127819137332315	0.4762691639712025	NA	NA	ok	NA	10
+endo	Culiseta melanura	county	Total	9	2.368028885028778	1	NA	NA	ok	NA	10
+endo	Culiseta melanura	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+endo	Culiseta melanura	collection_month	collection_month	4	1.2234837509582404	0.5166675789697437	1.336211778087511	0.224	ok	NA	10
+endo	Culiseta melanura	collection_month	Residual	5	1.1445451340705368	0.4833324210302559	NA	NA	ok	NA	10
+endo	Culiseta melanura	collection_month	Total	9	2.368028885028778	1	NA	NA	ok	NA	10
+endo	Culiseta melanura	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+endo	Culiseta melanura	lat_long_month_numeric	latitude	1	0.010488297778743938	0.004429125778428364	0.043025058613438125	0.99	ok	NA	10
+endo	Culiseta melanura	lat_long_month_numeric	longitude	1	0.11787920434700783	0.04977946218995351	0.48356366145649693	0.68	ok	NA	10
+endo	Culiseta melanura	lat_long_month_numeric	collection_month_num	1	0.6713682506396841	0.28351353941847085	2.7540844991562707	0.062	ok	NA	10
+endo	Culiseta melanura	lat_long_month_numeric	Residual	6	1.462631050380687	0.617657605288422	NA	NA	ok	NA	10
+endo	Culiseta melanura	lat_long_month_numeric	Total	9	2.368028885028778	1	NA	NA	ok	NA	10
+nonendo	Aedes albopictus	county	county	2	0.5234376920025969	0.15503431982831992	1.1926201294700283	0.25	ok	NA	16
+nonendo	Aedes albopictus	county	Residual	13	2.852832108014813	0.84496568017168	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	county	Total	15	3.3762698000174103	1	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	site	site	5	1.0412156866300917	0.3083923229786679	0.891812896892282	0.618	ok	NA	16
+nonendo	Aedes albopictus	site	Residual	10	2.335054113387318	0.691607677021332	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	site	Total	15	3.3762698000174103	1	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	collection_month	collection_month	4	0.8255648191713294	0.24451980086635028	0.8900689298721195	0.578	ok	NA	16
+nonendo	Aedes albopictus	collection_month	Residual	11	2.5507049808460804	0.7554801991336496	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	collection_month	Total	15	3.3762698000174103	1	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	county_plus_month	county	1	0.23256395951230857	0.06888192392418085	1.003234735816461	0.374	ok	NA	16
+nonendo	Aedes albopictus	county_plus_month	collection_month	3	0.5346910866810406	0.15836740496221108	0.7688503873869873	0.736	ok	NA	16
+nonendo	Aedes albopictus	county_plus_month	Residual	10	2.3181410213337696	0.686598275209468	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	county_plus_month	Total	15	3.3762698000174103	1	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	lat_long_month_numeric	latitude	1	0.18057234702738523	0.05348279542898322	0.7726760218354851	0.55	ok	NA	16
+nonendo	Aedes albopictus	lat_long_month_numeric	longitude	1	0.2643323944224991	0.07829125338891342	1.1310884879490983	0.332	ok	NA	16
+nonendo	Aedes albopictus	lat_long_month_numeric	collection_month_num	1	0.05964082069514953	0.017664708162494	0.2552053668923224	0.988	ok	NA	16
+nonendo	Aedes albopictus	lat_long_month_numeric	Residual	12	2.8043683291494492	0.8306114425852424	NA	NA	ok	NA	16
+nonendo	Aedes albopictus	lat_long_month_numeric	Total	15	3.3762698000174103	1	NA	NA	ok	NA	16
+nonendo	Culex pipiens	county	county	4	1.7971763985338853	0.5647340257727188	1.6218072948823987	0.098	ok	NA	10
+nonendo	Culex pipiens	county	Residual	5	1.3851648745545035	0.435265974227281	NA	NA	ok	NA	10
+nonendo	Culex pipiens	county	Total	9	3.1823412730883893	1	NA	NA	ok	NA	10
+nonendo	Culex pipiens	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+nonendo	Culex pipiens	collection_month	collection_month	3	1.3195260298536222	0.41464001394578665	1.4167009150754788	0.178	ok	NA	10
+nonendo	Culex pipiens	collection_month	Residual	6	1.8628152432347667	0.5853599860542132	NA	NA	ok	NA	10
+nonendo	Culex pipiens	collection_month	Total	9	3.1823412730883893	1	NA	NA	ok	NA	10
+nonendo	Culex pipiens	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+nonendo	Culex pipiens	lat_long_month_numeric	latitude	1	0.2843468898578383	0.08935147599109826	0.745718369552756	0.602	ok	NA	10
+nonendo	Culex pipiens	lat_long_month_numeric	longitude	1	0.42565516820340443	0.13375534918362664	1.1163085982162253	0.32	ok	NA	10
+nonendo	Culex pipiens	lat_long_month_numeric	collection_month_num	1	0.3365113710416985	0.10574333239725792	0.8825231430336338	0.508	ok	NA	10
+nonendo	Culex pipiens	lat_long_month_numeric	Residual	6	2.287836009954067	0.7189159846875173	NA	NA	ok	NA	10
+nonendo	Culex pipiens	lat_long_month_numeric	Total	9	3.1823412730883893	1	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	county	county	5	1.2629846471638155	0.5275475470293882	0.8932920867907173	0.566	ok	NA	10
+nonendo	Culiseta melanura	county	Residual	4	1.1310832511245212	0.4724524529706114	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	county	Total	9	2.3940678982883377	1	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	site	NA	NA	NA	NA	NA	NA	skipped	site has too many levels for available samples	NA
+nonendo	Culiseta melanura	collection_month	collection_month	4	1.2421301518059868	0.5188366431436886	1.3478703120015119	0.254	ok	NA	10
+nonendo	Culiseta melanura	collection_month	Residual	5	1.15193774648235	0.481163356856311	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	collection_month	Total	9	2.3940678982883377	1	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	county_plus_month	NA	NA	NA	NA	NA	NA	skipped	county + month model is over-parameterized for available samples	NA
+nonendo	Culiseta melanura	lat_long_month_numeric	latitude	1	0.013251061935314334	0.005534956608702832	0.053635191261529915	0.99	ok	NA	10
+nonendo	Culiseta melanura	lat_long_month_numeric	longitude	1	0.12586610766427886	0.05257415955256243	0.5094574903409635	0.676	ok	NA	10
+nonendo	Culiseta melanura	lat_long_month_numeric	collection_month_num	1	0.6675629128756435	0.27884042610191806	2.702037367719829	0.082	ok	NA	10
+nonendo	Culiseta melanura	lat_long_month_numeric	Residual	6	1.4823545836576948	0.6191781714785611	NA	NA	ok	NA	10
+nonendo	Culiseta melanura	lat_long_month_numeric	Total	9	2.3940678982883377	1	NA	NA	ok	NA	10

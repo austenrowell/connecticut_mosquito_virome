@@ -1,0 +1,6 @@
+Dataset: endo
+Host: Culiseta melanura
+Model: site
+Formula: dist_sub ~ site
+Status: skipped
+Reason: site has too many levels for available samples
