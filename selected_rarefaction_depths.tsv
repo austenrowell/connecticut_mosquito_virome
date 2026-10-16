@@ -1,0 +1,4 @@
+dataset	chosen_depth	selection	retain_fraction_target	n_total_samples	n_positive_depth_samples	n_retained_at_depth	proportion_all_samples_retained	proportion_positive_samples_retained	min_positive_depth	median_positive_depth	max_depth
+total	259526	automatic	0.9	36	36	33	0.9166666666666666	0.9166666666666666	94379	1888291	22413905
+endo	129535	automatic	0.9	36	36	33	0.9166666666666666	0.9166666666666666	43243	1809026.5	12554762
+nonendo	51136	automatic	0.9	36	36	33	0.9166666666666666	0.9166666666666666	7843	209688	10547207

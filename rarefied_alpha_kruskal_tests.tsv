@@ -1,0 +1,13 @@
+dataset	metric	.y.	n	statistic	df	p	method	p_adj_BH
+total	effective_shannon	value	33	18.260886172650885	2	1.08e-4	Kruskal-Wallis	1.4399999999999998e-4
+total	pielou	value	33	20.407868601986237	2	3.7e-5	Kruskal-Wallis	1.4399999999999998e-4
+total	richness	value	33	14.731474407945	2	6.33e-4	Kruskal-Wallis	6.33e-4
+total	shannon	value	33	18.260886172650885	2	1.08e-4	Kruskal-Wallis	1.4399999999999998e-4
+endo	effective_shannon	value	33	16.625592055003807	2	2.45e-4	Kruskal-Wallis	3.266666666666666e-4
+endo	pielou	value	33	18.40784950343776	2	1.01e-4	Kruskal-Wallis	3.266666666666666e-4
+endo	richness	value	33	1.9759167303285068	2	0.372	Kruskal-Wallis	0.372
+endo	shannon	value	33	16.625592055003807	2	2.45e-4	Kruskal-Wallis	3.266666666666666e-4
+nonendo	effective_shannon	value	33	19.813986013985996	2	4.98e-5	Kruskal-Wallis	6.639999999999999e-5
+nonendo	pielou	value	33	16.810366104483734	2	2.24e-4	Kruskal-Wallis	2.24e-4
+nonendo	richness	value	33	19.939366515837108	2	4.68e-5	Kruskal-Wallis	6.639999999999999e-5
+nonendo	shannon	value	33	19.813986013985996	2	4.98e-5	Kruskal-Wallis	6.639999999999999e-5

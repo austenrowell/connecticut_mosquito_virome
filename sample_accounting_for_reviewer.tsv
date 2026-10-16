@@ -1,0 +1,37 @@
+sample	host	collection_year	collection_date	collection_month	town	site	county	trap_type	mosquitoes
+Sample_E10906	Culiseta melanura	2022	2022-08-22	August	Voluntown	V9	New London	Light Trap	50
+Sample_E11273	Aedes albopictus	2018	2018-08-13	August	Bridgeport	BP105	Fairfield	Light Trap	44
+Sample_E12147	Aedes albopictus	2016	2016-09-21	September	Bridgeport	BP105	Fairfield	Light Trap	36
+Sample_E12664	Culex pipiens	2022	2022-09-07	September	Greenwich	GR46	Fairfield	Gravid Trap	50
+Sample_E12717	Culex pipiens	2022	2022-09-07	September	Middlefield	MI82	Middlesex	Gravid Trap	50
+Sample_E13649	Culex pipiens	2022	2022-09-20	September	Bridgeport	BP105	Fairfield	Light Trap	50
+Sample_E1488	Aedes albopictus	2022	2022-06-13	June	Bridgeport	BP105	Fairfield	Light Trap	50
+Sample_E16222	Culiseta melanura	2018	2018-09-06	September	Monroe	MO52	Fairfield	Light Trap	50
+Sample_E2242	Culex pipiens	2022	2022-06-15	June	Waterford	WF20	New London	Gravid Trap	50
+Sample_E2388	Culiseta melanura	2022	2022-06-16	June	Canterbury	CB93	Windham	Light Trap	50
+Sample_E3888	Culiseta melanura	2022	2022-06-27	June	Woodstock	WS111	Windham	Light Trap	50
+Sample_E4265	Culiseta melanura	2022	2022-06-29	June	Monroe	MO52	Fairfield	Light Trap	50
+Sample_E440	Culiseta melanura	2022	2022-06-02	June	Farmington	FM18	Hartford	Light Trap	50
+Sample_E5422	Culex pipiens	2022	2022-07-07	July	West Haven	WH104	New Haven	Gravid Trap	50
+Sample_E66	Culiseta melanura	2022	2022-05-31	May	Killingworth	K27	Middlesex	Light Trap	50
+Sample_E6711	Culiseta melanura	2022	2022-07-18	July	North Stonington	NS5	New London	Light Trap	50
+Sample_E6915	Culex pipiens	2022	2022-07-19	July	New Haven	NH54	New Haven	Light Trap	50
+Sample_E7231	Culex pipiens	2022	2022-07-20	July	New Britain	NEB84	Hartford	Light Trap	50
+Sample_E7800	Culiseta melanura	2022	2022-07-25	July	Bethany	BB17	New Haven	Light Trap	50
+Sample_E8244	Culex pipiens	2022	2022-07-27	July	Salem	SA105	New London	Gravid Trap	50
+Sample_E8933	Culiseta melanura	2019	2019-08-07	August	Chester	CH23	Middlesex	Light Trap	50
+Sample_E9208	Culex pipiens	2022	2022-08-04	August	Waterbury	WB90	New Haven	Gravid Trap	50
+Sample_E9621	Aedes albopictus	2022	2022-08-09	August	Stratford	ST64	Fairfield	Light Trap	18
+Sample_E9906	Culex pipiens	2022	2022-08-11	August	Hartford	HA78	Hartford	Gravid Trap	50
+Sample_EAal-10	Aedes albopictus	2022	2022-07-28	July	West Haven	WH104	New Haven	BG Sentinel; Light Trap	19
+Sample_EAal-11	Aedes albopictus	2022	2022-09-07	September	Bridgeport	BP105	Fairfield	BG Sentinel; Gravid Trap; Light Trap	18
+Sample_EAal-12	Aedes albopictus	2022	2022-10-06	October	Westbrook	WK92	Middlesex	BG Sentinel; Gravid Trap; Light Trap	18
+Sample_EAal-13	Aedes albopictus	2022	2022-07-26	July	Bridgeport	BP105	Fairfield	BG Sentinel; Gravid Trap; Light Trap	17
+Sample_EAal-2	Aedes albopictus	2022	2022-07-14	July	Bridgeport	BP105	Fairfield	Gravid Trap; Light Trap	49
+Sample_EAal-3	Aedes albopictus	2022	2022-09-08	September	New Haven	NH54	New Haven	BG Sentinel; Gravid Trap; Light Trap	49
+Sample_EAal-4	Aedes albopictus	2022	2022-07-19	July	West Haven	WH104	New Haven	BG Sentinel; Gravid Trap; Light Trap	25
+Sample_EAal-5	Aedes albopictus	2022	2022-08-08	August	Bridgeport	BP39	Fairfield	Gravid Trap; Light Trap	23
+Sample_EAal-6	Aedes albopictus	2022	2022-08-23	August	West Haven	WH104	New Haven	BG Sentinel; Light Trap	23
+Sample_EAal-7	Aedes albopictus	2022	2022-09-20	September	Bridgeport	BP105	Fairfield	BG Sentinel; Light Trap	22
+Sample_EAal-8	Aedes albopictus	2022	2022-09-28	September	Stratford	ST64	Fairfield	BG Sentinel; Light Trap	21
+Sample_EAal-9	Aedes albopictus	2022	2022-09-29	September	Bridgeport	BP105	Fairfield	BG Sentinel; Light Trap	19

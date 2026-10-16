@@ -1,0 +1,4 @@
+fraction	.y.	n	statistic	df	p	method	p_adj_BH
+endogenous_reads	viral_read_depth	36	9.319369369369383	2	0.00947	Kruskal-Wallis	0.0129
+free_viral_reads	viral_read_depth	36	13.99876126126125	2	9.12e-4	Kruskal-Wallis	0.002736
+total_viral_reads	viral_read_depth	36	8.70416666666668	2	0.0129	Kruskal-Wallis	0.0129

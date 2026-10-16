@@ -1,0 +1,8 @@
+host	trap_type	n_pools
+Aedes albopictus	BG Sentinel; Gravid Trap; Light Trap	5
+Aedes albopictus	BG Sentinel; Light Trap	5
+Aedes albopictus	Gravid Trap; Light Trap	2
+Aedes albopictus	Light Trap	4
+Culex pipiens	Gravid Trap	7
+Culex pipiens	Light Trap	3
+Culiseta melanura	Light Trap	10

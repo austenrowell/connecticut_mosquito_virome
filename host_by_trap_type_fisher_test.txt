@@ -1,0 +1,7 @@
+
+	Fisher's Exact Test for Count Data with simulated p-value (based on 10000 replicates)
+
+data:  trap_table
+p-value = 2e-04
+alternative hypothesis: two.sided
+
