@@ -1,5 +1,0 @@
-                   
-                    BG Sentinel; Gravid Trap; Light Trap BG Sentinel; Light Trap Gravid Trap Gravid Trap; Light Trap Light Trap
-  Aedes albopictus                                     5                       5           0                       2          4
-  Culex pipiens                                        0                       0           7                       0          3
-  Culiseta melanura                                    0                       0           0                       0         10

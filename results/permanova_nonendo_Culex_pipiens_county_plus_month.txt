@@ -1,6 +1,0 @@
-Dataset: nonendo
-Host: Culex pipiens
-Model: county_plus_month
-Formula: dist_sub ~ county + collection_month
-Status: skipped
-Reason: county + month model is over-parameterized for available samples

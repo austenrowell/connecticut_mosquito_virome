@@ -1,3 +1,0 @@
-dataset	host	model	term	df	sum_of_squares	r_squared	f_statistic	p_value	status	reason	n_samples
-total	Culex pipiens	lat_long_month_numeric	longitude	1	0.7157164768313915	0.22734390678125108	2.1685167090901936	0.048	ok	NA	10
-endo	Culex pipiens	lat_long_month_numeric	longitude	1	0.8629418701751639	0.2781554208598895	2.8381437664026183	0.01	ok	NA	10
