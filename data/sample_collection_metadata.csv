@@ -1,0 +1,37 @@
+Sample,Host,Town,Site,Latitude,Longitude,Date,County,Trap_type,Mosquitoes
+Sample_E12147,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,9/21/2016,Fairfield,Light Trap,36
+Sample_E11273,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,8/13/2018,Fairfield,Light Trap,44
+Sample_E1488,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,6/13/2022,Fairfield,Light Trap,50
+Sample_EAal-2,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,7/14/2022,Fairfield,Gravid Trap; Light Trap,49
+Sample_EAal-13,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,7/26/2022,Fairfield,BG Sentinel; Gravid Trap; Light Trap,17
+Sample_EAal-5,Aedes albopictus,Bridgeport,BP39,41.2111,-73.17992,8/8/2022,Fairfield,Gravid Trap; Light Trap,23
+Sample_EAal-11,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,9/7/2022,Fairfield,BG Sentinel; Gravid Trap; Light Trap,18
+Sample_EAal-7,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,9/20/2022,Fairfield,BG Sentinel; Light Trap,22
+Sample_EAal-9,Aedes albopictus,Bridgeport,BP105,41.18862,-73.2078,9/29/2022,Fairfield,BG Sentinel; Light Trap,19
+Sample_EAal-3,Aedes albopictus,New Haven,NH54,41.3305,-72.93995,9/8/2022,New Haven,BG Sentinel; Gravid Trap; Light Trap,49
+Sample_E9621,Aedes albopictus,Stratford,ST64,41.17543,-73.12887,8/9/2022,Fairfield,Light Trap,18
+Sample_EAal-8,Aedes albopictus,Stratford,ST64,41.17543,-73.12887,9/28/2022,Fairfield,BG Sentinel; Light Trap,21
+Sample_EAal-4,Aedes albopictus,West Haven,WH104,41.28685,-72.94598,7/19/2022,New Haven,BG Sentinel; Gravid Trap; Light Trap,25
+Sample_EAal-10,Aedes albopictus,West Haven,WH104,41.28685,-72.94598,7/28/2022,New Haven,BG Sentinel; Light Trap,19
+Sample_EAal-6,Aedes albopictus,West Haven,WH104,41.28685,-72.94598,8/23/2022,New Haven,BG Sentinel; Light Trap,23
+Sample_EAal-12,Aedes albopictus,Westbrook,WK92,41.29125,-72.45175,10/6/2022,Middlesex,BG Sentinel; Gravid Trap; Light Trap,18
+Sample_E13649,Culex pipiens,Bridgeport,BP105,41.18862,-73.2078,9/20/2022,Fairfield,Light Trap,50
+Sample_E12664,Culex pipiens,Greenwich,GR46,41.03745,-73.56142,9/7/2022,Fairfield,Gravid Trap,50
+Sample_E9906,Culex pipiens,Hartford,HA78,41.79162,-72.689,8/11/2022,Hartford,Gravid Trap,50
+Sample_E12717,Culex pipiens,Middlefield,MI82,41.4918,-72.69548,9/7/2022,Middlesex,Gravid Trap,50
+Sample_E7231,Culex pipiens,New Britain,NEB84,41.71092,-72.76758,7/20/2022,Hartford,Light Trap,50
+Sample_E6915,Culex pipiens,New Haven,NH54,41.3305,-72.93995,7/19/2022,New Haven,Light Trap,50
+Sample_E8244,Culex pipiens,Salem,SA105,41.47507,-72.26358,7/27/2022,New London,Gravid Trap,50
+Sample_E9208,Culex pipiens,Waterbury,WB90,41.54252,-73.01485,8/4/2022,New Haven,Gravid Trap,50
+Sample_E2242,Culex pipiens,Waterford,WF20,41.3318,-72.1089,6/15/2022,New London,Gravid Trap,50
+Sample_E5422,Culex pipiens,West Haven,WH104,41.28685,-72.94598,7/7/2022,New Haven,Gravid Trap,50
+Sample_E7800,Culiseta melanura,Bethany,BB17,41.44513,-72.99815,7/25/2022,New Haven,Light Trap,50
+Sample_E2388,Culiseta melanura,Canterbury,CB93,41.64135,-71.96523,6/16/2022,Windham,Light Trap,50
+Sample_E8933,Culiseta melanura,Chester,CH23,41.38875,-72.4934,8/7/2019,Middlesex,Light Trap,50
+Sample_E440,Culiseta melanura,Farmington,FM18,41.72188,-72.85787,6/2/2022,Hartford,Light Trap,50
+Sample_E66,Culiseta melanura,Killingworth,K27,41.33677,-72.57245,5/31/2022,Middlesex,Light Trap,50
+Sample_E16222,Culiseta melanura,Monroe,MO52,41.35095,-73.23997,9/6/2018,Fairfield,Light Trap,50
+Sample_E4265,Culiseta melanura,Monroe,MO52,41.35095,-73.23997,6/29/2022,Fairfield,Light Trap,50
+Sample_E6711,Culiseta melanura,North Stonington,NS5,41.43615,-71.83065,7/18/2022,New London,Light Trap,50
+Sample_E10906,Culiseta melanura,Voluntown,V9,41.5947,-71.8689,8/22/2022,New London,Light Trap,50
+Sample_E3888,Culiseta melanura,Woodstock,WS111,41.99578,-72.06602,6/27/2022,Windham,Light Trap,50

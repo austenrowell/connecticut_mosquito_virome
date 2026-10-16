@@ -1,0 +1,299 @@
+ 96.78	15602356	15602356	0	0	U	0	unclassified
+  3.22	518912	0	7088128	10806	R	1	root
+  3.22	518912	6	7088128	10806	D	10239	  Viruses
+  2.32	373890	0	4467755	5025	D1	2559587	    Riboviria
+  2.25	362204	0	4291480	717	D2	2585030	      unclassified Riboviria
+  2.25	362204	126	4291468	711	D3	1922348	        unclassified RNA viruses ShiM-2016
+  1.81	291652	291652	3597018	508	S	1922928	          Hubei mosquito virus 4
+  0.42	68234	68234	447528	44	S	1922926	          Hubei mosquito virus 2
+  0.01	2184	2184	14473	33	S	1923664	          Wenzhou tombus-like virus 11
+  0.00	6	6	76884	19	S	1923660	          Wenzhou sobemo-like virus 4
+  0.00	2	2	57	29	S	1922835	          Hubei arthropod virus 1
+  0.07	11598	0	174566	3602	K	2732396	      Orthornavirae
+  0.04	5977	0	121800	2914	P	2732406	        Kitrinoviricota
+  0.04	5977	0	121417	2855	C	2732462	          Flasuviricetes
+  0.04	5977	0	121417	2855	O	2732545	            Amarillovirales
+  0.04	5977	0	121417	2855	F	11050	              Flaviviridae
+  0.04	5977	0	121366	2842	G	11051	                Flavivirus
+  0.04	5977	0	121366	2842	G1	39686	                  unclassified Flavivirus
+  0.04	5977	5977	121191	2833	S	390844	                    Culex flavivirus
+  0.03	5529	0	49206	178	P	2732407	        Lenarviricota
+  0.03	5529	0	49181	165	C	2842243	          Leviviricetes
+  0.03	5529	0	49135	139	O	2842249	            Timlovirales
+  0.03	5529	0	49134	138	F	2842332	              Steitzviridae
+  0.03	5048	0	44430	36	G	2842802	                Kinglevirus
+  0.03	5048	0	44430	36	S	2845070	                  Kinglevirus lutadaptatum
+  0.03	5048	5048	44430	36	S1	2786389	                    ssRNA phage SRR5466337_3
+  0.00	481	0	4641	72	G	2842702	                Gihfavirus
+  0.00	481	0	4641	72	S	2844652	                  Gihfavirus pelohabitans
+  0.00	481	481	4641	72	S1	2786405	                    ssRNA phage SRR5466369_2
+  0.00	84	0	1249	219	P	2497569	        Negarnaviricota
+  0.00	84	0	878	119	P1	2497571	          Polyploviricotina
+  0.00	84	0	864	113	C	2497576	            Ellioviricetes
+  0.00	84	1	864	113	O	1980410	              Bunyavirales
+  0.00	46	0	200	30	F	1980416	                Peribunyaviridae
+  0.00	46	0	196	27	G	11572	                  Orthobunyavirus
+  0.00	44	0	155	4	S	3052437	                    Orthobunyavirus schmallenbergense
+  0.00	44	44	155	4	S1	159150	                      Shamonda orthobunyavirus
+  0.00	2	2	10	4	S	3052441	                    Orthobunyavirus simbuense
+  0.00	29	0	241	14	F	1980419	                Tospoviridae
+  0.00	29	0	240	13	G	2560196	                  Orthotospovirus
+  0.00	29	0	232	8	S	3052569	                    Orthotospovirus capsicimaculaflavi
+  0.00	29	29	232	8	S1	1414655	                      Pepper chlorotic spot virus
+  0.00	7	0	147	11	F	1980413	                Hantaviridae
+  0.00	7	0	141	10	F1	2560074	                  Mammantavirinae
+  0.00	7	0	133	8	G	1980442	                    Orthohantavirus
+  0.00	7	0	117	2	S	3052491	                      Orthohantavirus oxbowense
+  0.00	7	7	117	2	S1	660954	                        Oxbow virus
+  0.00	1	0	162	18	F	1980418	                Phenuiviridae
+  0.00	1	0	132	3	F1	2024603	                  unclassified Phenuiviridae
+  0.00	1	1	131	2	S	2599343	                    Aphis citricidus bunyavirus
+  0.00	8	0	2212	260	P	2732408	        Pisuviricota
+  0.00	8	0	2135	219	C	2732506	          Pisoniviricetes
+  0.00	6	0	273	143	O	76804	            Nidovirales
+  0.00	6	0	188	111	O1	2499400	              Mesnidovirineae
+  0.00	6	0	188	111	F	1312872	                Mesoniviridae
+  0.00	6	0	188	111	F1	2501963	                  Hexponivirinae
+  0.00	6	0	188	111	G	1312873	                    Alphamesonivirus
+  0.00	6	0	169	102	G1	2509501	                      Namcalivirus
+  0.00	6	0	169	102	S	1312874	                        Alphamesonivirus 1
+  0.00	6	6	166	100	S1	325676	                          Nam Dinh virus
+  0.00	2	0	1757	9	O	2732553	            Sobelivirales
+  0.00	2	0	1757	9	F	2169577	              Solemoviridae
+  0.00	2	0	1739	3	G	12137	                Sobemovirus
+  0.00	2	2	1739	3	S	2607629	                  Physalis rugose mosaic virus
+  0.00	88	0	1705	704	K	2732397	      Pararnavirae
+  0.00	88	0	1705	704	P	2732409	        Artverviricota
+  0.00	88	0	1705	704	C	2732514	          Revtraviricetes
+  0.00	88	0	1700	703	O	2169561	            Ortervirales
+  0.00	88	0	1676	692	F	11632	              Retroviridae
+  0.00	63	0	1209	409	F1	327045	                Orthoretrovirinae
+  0.00	56	23	1160	393	G	153135	                  Gammaretrovirus
+  0.00	29	2	179	77	S	11786	                    Murine leukemia virus
+  0.00	15	15	76	22	S1	11795	                      Friend murine leukemia virus
+  0.00	10	10	90	48	S1	11801	                      Moloney murine leukemia virus
+  0.00	2	0	2	1	S1	368797	                      unclassified Murine leukemia virus
+  0.00	2	2	2	1	S2	44561	                        Murine type C retrovirus
+  0.00	4	0	11	3	G1	353769	                    unclassified Gammaretrovirus
+  0.00	4	4	11	3	S	590745	                      Mus musculus mobilized endogenous polytropic provirus
+  0.00	5	0	29	6	G	140052	                  Betaretrovirus
+  0.00	5	5	29	6	S	11855	                    Mason-Pfizer monkey virus
+  0.00	2	0	10	5	G	153057	                  Alpharetrovirus
+  0.00	2	0	10	5	G1	353825	                    unclassified Alpharetrovirus
+  0.00	2	2	8	4	S	11867	                      Avian myelocytomatosis virus
+  0.00	25	0	460	280	F1	35276	                unclassified Retroviridae
+  0.00	25	0	460	280	F2	206037	                  Human endogenous retroviruses
+  0.00	25	0	460	280	S	45617	                    Human endogenous retrovirus K
+  0.00	25	25	460	280	S1	166122	                      Human endogenous retrovirus K113
+  0.89	143641	0	807338	263	C	2840056	    Naldaviricetes
+  0.89	143641	0	807328	257	O	2840070	      Lefavirales
+  0.89	143624	0	807015	215	F	10442	        Baculoviridae
+  0.89	143624	0	806543	64	G	558017	          Betabaculovirus
+  0.89	143622	0	806454	28	S	3051997	            Betabaculovirus chofumiferanae
+  0.89	143622	143622	806454	28	S1	56947	              Choristoneura fumiferana granulovirus
+  0.00	2	0	11	4	S	3047946	            Betabaculovirus helarmigerae
+  0.00	2	2	11	4	S1	489830	              Helicoverpa armigera granulovirus
+  0.00	17	0	300	35	F	1511852	        Nudiviridae
+  0.00	17	0	219	6	G	1511854	          Betanudivirus
+  0.00	17	0	219	6	S	3052000	            Betanudivirus hezeae
+  0.00	10	10	123	2	S1	29250	              Heliothis zea nudivirus
+  0.00	7	7	93	2	S1	1128424	              Helicoverpa zea nudivirus 2
+  0.01	892	0	8840	828	D1	2732004	    Varidnaviria
+  0.01	892	0	8834	826	K	2732005	      Bamfordvirae
+  0.01	892	0	8720	782	P	2732007	        Nucleocytoviricota
+  0.00	582	0	4494	194	C	2732525	          Pokkesviricetes
+  0.00	355	0	2165	9	O	2732526	            Asfuvirales
+  0.00	355	0	2165	9	F	137992	              Asfarviridae
+  0.00	355	0	2165	9	G	39743	                Asfivirus
+  0.00	355	355	2165	9	S	10497	                  African swine fever virus
+  0.00	227	0	2329	185	O	2732527	            Chitovirales
+  0.00	227	0	2329	185	F	10240	              Poxviridae
+  0.00	187	0	1804	134	F1	10241	                Chordopoxvirinae
+  0.00	187	0	1621	54	G	2733297	                  Oryzopoxvirus
+  0.00	187	0	1613	52	G1	2788403	                    unclassified Oryzopoxvirus
+  0.00	187	187	1613	52	S	67082	                      BeAn 58058 virus
+  0.00	40	0	525	51	F1	10284	                Entomopoxvirinae
+  0.00	40	0	495	35	S	2083214	                  Diachasmimorpha entomopoxvirus
+  0.00	40	40	495	35	S1	109981	                    Diachasmimorpha longicaudata entomopoxvirus
+  0.00	310	0	4226	588	C	2732523	          Megaviricetes
+  0.00	303	0	3286	361	O	2732554	            Imitervirales
+  0.00	303	1	3176	313	F	549779	              Mimiviridae
+  0.00	290	0	2884	233	F1	3044648	                Megamimivirinae
+  0.00	280	0	2457	43	G	3044761	                  Megavirus
+  0.00	217	0	1920	22	S	3060301	                    Megavirus chilense
+  0.00	217	217	1920	22	S1	1094892	                      Megavirus chiliensis
+  0.00	63	0	523	16	S	3060302	                    Megavirus powaiense
+  0.00	63	63	523	16	S1	1842663	                      Powai lake megavirus
+  0.00	6	2	118	52	G	315393	                  Mimivirus
+  0.00	3	0	30	8	G1	2501774	                    unclassified Mimivirus
+  0.00	3	3	30	8	S	1128151	                      Mimivirus terra2
+  0.00	1	0	53	27	S	3047343	                    Mimivirus bradfordmassiliense
+  0.00	1	1	53	27	S1	212035	                      Acanthamoeba polyphaga mimivirus
+  0.00	4	0	113	41	G	3044693	                  Cotonvirus
+  0.00	4	0	113	41	S	3059904	                    Cotonvirus japonicum
+  0.00	4	4	113	41	S1	2811091	                      Cotonvirus japonicus
+  0.00	7	0	204	63	F1	1977630	                Klosneuvirinae
+  0.00	7	0	121	38	G	2763561	                  Fadolivirus
+  0.00	7	7	121	38	S	3060017	                    Fadolivirus algeromassiliense
+  0.00	5	0	87	16	F1	3044638	                Aliimimivirinae
+  0.00	5	0	87	16	G	3044800	                  Rheavirus
+  0.00	5	0	87	16	S	3047716	                    Rheavirus sinusmexicani
+  0.00	5	0	87	16	S1	1513235	                      Cafeteria roenbergensis virus
+  0.00	5	5	87	16	S2	693272	                        Cafeteria roenbergensis virus BV-PW1
+  0.00	7	0	471	130	O	2732524	            Algavirales
+  0.00	7	0	471	130	F	10501	              Phycodnaviridae
+  0.00	3	0	108	37	G	181083	                Chlorovirus
+  0.00	2	2	11	6	S	10506	                  Paramecium bursaria Chlorella virus 1
+  0.00	1	0	35	10	S	381899	                  Paramecium bursaria Chlorella virus A1
+  0.00	1	1	6	2	S1	399781	                    Paramecium bursaria Chlorella virus FR483
+  0.00	2	0	18	2	G	573012	                Raphidovirus
+  0.00	2	2	18	2	S	97195	                  Heterosigma akashiwo virus 01
+  0.00	1	0	89	33	G	181084	                Prasinovirus
+  0.00	1	0	70	29	G1	880158	                  unclassified Prasinovirus
+  0.00	1	1	16	2	S	880161	                    Micromonas sp. RCC1109 virus MpV1
+  0.00	1	0	36	13	G	181085	                Phaeovirus
+  0.00	1	1	8	5	S	231992	                  Feldmannia irregularis virus a
+  0.00	339	0	22627	4240	D1	2731341	    Duplodnaviria
+  0.00	339	0	22627	4240	K	2731360	      Heunggongvirae
+  0.00	331	0	21900	4012	P	2731618	        Uroviricota
+  0.00	331	21	21900	4012	C	2731619	          Caudoviricetes
+  0.00	132	0	7871	28	F	3044479	            Stanwilliamsviridae
+  0.00	132	0	7838	12	F1	3044647	              Loccivirinae
+  0.00	130	0	438	6	G	2843347	                Annadreamyvirus
+  0.00	130	0	427	4	G1	2852151	                  unclassified Annadreamyvirus
+  0.00	130	130	425	3	S	2848887	                    Streptomyces phage TunaTartare
+  0.00	2	0	7400	6	G	2560255	                Wilnyevirus
+  0.00	2	0	7391	3	S	2560486	                  Wilnyevirus billnye
+  0.00	2	2	7391	3	S1	2079426	                    Streptomyces phage BillNye
+  0.00	60	2	2017	475	G	186765	            Lambdavirus
+  0.00	58	0	1995	453	S	2169967	              Escherichia virus DE3
+  0.00	58	58	1995	453	S1	482822	                Escherichia phage DE3
+  0.00	29	0	728	289	G	186789	            Punavirus
+  0.00	29	0	718	286	S	10678	              Punavirus P1
+  0.00	29	29	717	285	S1	10682	                Enterobacteria phage P7
+  0.00	13	0	351	89	O	1978007	            Crassvirales
+  0.00	13	0	126	19	F	2942965	              Steigviridae
+  0.00	13	0	126	19	F1	2942967	                Asinivirinae
+  0.00	13	0	86	1	G	2942979	                  Kahnovirus
+  0.00	13	0	86	1	S	2956046	                    Kahnovirus copri
+  0.00	13	13	86	1	S1	2986405	                      uncultured phage cr44_1
+  0.00	12	0	169	31	F	2731691	            Drexlerviridae
+  0.00	12	0	125	4	F1	1910999	              Tunavirinae
+  0.00	12	12	125	4	G	187217	                Tunavirus
+  0.00	12	1	1296	462	C1	2788787	            unclassified Caudoviricetes
+  0.00	3	3	25	23	S	1407493	              Shigella phage SfIV
+  0.00	2	2	49	38	S	1732063	              Staphylococcus phage SPbeta-like
+  0.00	2	2	2	1	S	1572745	              Mannheimia phage vB_MhS_587AP2
+  0.00	2	2	8	4	S	114416	              Lactococcus phage ul36
+  0.00	2	2	5	3	S	1805958	              Pseudomonas phage phiAH14a
+  0.00	10	1	392	127	F	2946167	            Peduoviridae
+  0.00	4	0	86	22	G	2948695	              Elveevirus
+  0.00	4	0	86	22	S	2734062	                Elveevirus 4LV2017
+  0.00	4	4	86	22	S1	1960658	                  Klebsiella phage 4LV2017
+  0.00	2	0	71	71	G	2948951	              Wadgaonvirus
+  0.00	2	0	71	71	S	2956672	                Wadgaonvirus wv5004651
+  0.00	2	2	71	71	S1	2716351	                  Escherichia phage 500465-1
+  0.00	2	0	12	3	G	2732980	              Felsduovirus
+  0.00	2	0	4	2	S	2734064	                Felsduovirus SEN8
+  0.00	2	2	4	2	S1	1647468	                  Salmonella phage SEN8
+  0.00	1	0	155	2	G	2948942	              Valbvirus
+  0.00	1	0	155	2	S	2956629	                Valbvirus ValB1MD2
+  0.00	1	1	155	2	S1	2759177	                  Vibrio phage ValB1MD-2
+  0.00	5	0	2925	163	F	2731643	            Autographiviridae
+  0.00	5	0	165	70	F1	2731653	              Studiervirinae
+  0.00	5	4	111	45	G	110456	                Teseptimavirus
+  0.00	1	0	6	6	S	1985738	                  Teseptimavirus T7
+  0.00	1	1	6	6	S1	10760	                    Escherichia phage T7
+  0.00	4	4	28	8	G	2843366	            Cimandefvirus
+  0.00	4	0	31	9	G	2733208	            Samwavirus
+  0.00	4	0	14	4	S	2734273	              Samwavirus samW
+  0.00	4	4	14	4	S1	2588502	                Corynebacterium phage Lederberg
+  0.00	4	1	91	45	G	1623305	            Skunavirus
+  0.00	2	0	7	2	S	2845438	              Skunavirus P680
+  0.00	2	2	7	2	S1	1262537	                Lactococcus phage P680
+  0.00	1	0	3	3	S	2845447	              Skunavirus sv512
+  0.00	1	1	3	3	S1	1636570	                Lactococcus phage 936 group phage Phi5.12
+  0.00	3	0	30	16	F	2946173	            Vilmaviridae
+  0.00	3	0	26	13	F1	1982877	              Mclasvirinae
+  0.00	3	2	16	7	G	1983744	                Bongovirus
+  0.00	1	0	6	4	S	1983750	                  Bongovirus bongo
+  0.00	1	1	2	2	S1	1088864	                    Mycobacterium phage Bongo
+  0.00	3	2	114	103	G	1982251	            Pahexavirus
+  0.00	1	0	7	6	G1	2079398	              unclassified Pahexavirus
+  0.00	1	1	3	3	S	1654781	                Propionibacterium phage Moyashi
+  0.00	2	0	64	35	F	2169529	            Ackermannviridae
+  0.00	2	2	5	3	G	2841279	              Nezavisimistyvirus
+  0.00	2	0	19	11	G	2733216	            Terapinvirus
+  0.00	2	0	17	10	S	2734283	              Terapinvirus terapin
+  0.00	2	2	17	10	S1	1887654	                Gordonia phage Terapin
+  0.00	2	0	16	8	G	2843360	            Bievrevirus
+  0.00	2	0	16	8	S	2844174	              Bievrevirus bv4A7
+  0.00	2	2	16	8	S1	2847059	                Escherichia phage 4A7
+  0.00	2	0	36	5	G	2733140	            Wellingtonvirus
+  0.00	2	2	36	5	S	2734153	              Wellingtonvirus wellington
+  0.00	2	0	492	197	F	2946170	            Straboviridae
+  0.00	2	1	223	125	F1	1198136	              Tevenvirinae
+  0.00	1	1	46	31	G	10663	                Tequatrovirus
+  0.00	2	0	100	43	F	2731690	            Demerecviridae
+  0.00	2	2	8	4	G	2560210	              Priunavirus
+  0.00	2	0	41	19	C1	2946628	            Ceeclamvirinae
+  0.00	2	0	27	13	G	2948833	              Myrnavirus
+  0.00	2	0	10	4	S	2956211	                Myranavirus phabba
+  0.00	2	2	10	4	S1	2027899	                  Mycobacterium phage Phabba
+  0.00	1	0	5	4	G	1623282	            Chenonavirus
+  0.00	1	0	4	3	S	205872	              Chenonavirus Che9c
+  0.00	1	1	4	3	S1	2907832	                Mycobacterium phage Che9c
+  0.00	1	1	18	12	G	1720323	            Lessievirus
+  0.00	1	0	35	16	C1	1982875	            Arquatrovirinae
+  0.00	1	0	10	3	G	2948647	              Caelumvirus
+  0.00	1	0	10	3	S	2955566	                Caelumvirus daudau
+  0.00	1	1	10	3	S1	2041206	                  Streptomyces phage Daudau
+  0.00	1	0	45	42	G	2560122	            Dismasvirus
+  0.00	1	0	43	41	G1	2562666	              unclassified Dismasvirus
+  0.00	1	1	26	25	S	2725619	                Microbacterium phage AvGardian
+  0.00	1	0	2	2	G	2733178	            Godonkavirus
+  0.00	1	0	2	2	S	2734237	              Godonkavirus godonK
+  0.00	1	1	2	2	S1	2562192	                Gordonia phage GodonK
+  0.00	8	0	727	228	P	2731361	        Peploviricota
+  0.00	8	0	727	228	C	2731363	          Herviviricetes
+  0.00	8	0	727	228	O	548681	            Herpesvirales
+  0.00	8	0	604	190	F	3044472	              Orthoherpesviridae
+  0.00	8	0	256	69	F1	10357	                Betaherpesvirinae
+  0.00	8	0	197	43	G	10358	                  Cytomegalovirus
+  0.00	8	0	136	20	S	3050337	                    Cytomegalovirus papiinebeta3
+  0.00	8	0	136	20	S1	2169863	                      Papiine betaherpesvirus 3
+  0.00	8	8	136	20	S2	153301	                        Baboon cytomegalovirus OCOM4-37
+  0.00	103	0	1479	139	D1	2731342	    Monodnaviria
+  0.00	103	0	1146	127	K	2732092	      Shotokuvirae
+  0.00	97	0	920	48	P	2732415	        Cossaviricota
+  0.00	97	0	871	21	C	2732422	          Quintoviricetes
+  0.00	97	0	871	21	O	2732534	            Piccovirales
+  0.00	97	0	871	21	F	10780	              Parvoviridae
+  0.00	97	0	852	11	F1	40119	                Parvovirinae
+  0.00	97	97	836	6	G	1507401	                  Bocaparvovirus
+  0.00	6	0	226	79	P	2732416	        Cressdnaviricota
+  0.00	4	0	159	43	C	2732424	          Repensiviricetes
+  0.00	4	0	159	43	O	2732539	            Geplafuvirales
+  0.00	4	0	105	26	F	1910928	              Genomoviridae
+  0.00	4	0	94	22	G	1542744	                Gemycircularvirus
+  0.00	4	0	36	9	S	2844430	                  Gemycircularvirus citas1
+  0.00	4	4	36	9	S1	2705538	                    Citrus Tunisia genomovirus 2
+  0.00	2	0	66	35	C	2732423	          Arfiviricetes
+  0.00	2	0	61	31	O	2732536	            Cirlivirales
+  0.00	2	0	61	31	F	39724	              Circoviridae
+  0.00	2	0	53	27	F1	642248	                unclassified Circoviridae
+  0.00	2	2	44	22	S	1788444	                  Circovirus-like genome DCCV-4
+  0.00	24	0	781	230	D1	12429	    unclassified viruses
+  0.00	16	16	161	2	S	1500510	      Halovirus VNH-1
+  0.00	8	0	478	175	D2	2204151	      unclassified DNA viruses
+  0.00	4	0	436	161	D3	51368	        unclassified dsDNA viruses
+  0.00	4	0	401	141	G	2060084	          Pandoravirus
+  0.00	3	3	83	27	S	2107708	            Pandoravirus neocaledonia
+  0.00	1	1	69	30	S	1605721	            Pandoravirus inopinatum
+  0.00	3	0	23	4	D3	79205	        unclassified dsDNA phages
+  0.00	3	3	12	2	S	1391456	          Phormidium phage MIS-PhV1B
+  0.00	1	0	9	3	D3	35342	        unclassified ssDNA viruses
+  0.00	1	1	3	1	S	2213167	          Chlorocebus cynosuros associated smacovirus
+  0.00	17	0	213	47	F	2946196	    Polydnaviriformidae
+  0.00	17	0	206	42	G	2946836	      Bracoviriform
+  0.00	17	17	147	23	S	2083300	        Bracoviriform facetosae
